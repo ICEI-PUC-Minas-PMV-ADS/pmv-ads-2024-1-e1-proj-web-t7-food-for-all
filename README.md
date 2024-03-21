@@ -6,15 +6,15 @@
 
 `Eixo 1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Criar uma plataforma web dedicada à facilitação da doação de alimentos proporcionando um espaço onde indivíduos ou organizações possam oferecer alimentos para doação. Além disso, a plataforma fornecerá informações detalhadas sobre os alimentos disponíveis, criando assim uma conexão direta entre doadores e aqueles que necessitam desses recursos alimentares.
 
 ## Integrantes
 
-* Felipe Nicolau
+* Felipe Nicolau Ferreira 
 * Kamilly Rebeca de Macedo
 * Lucas Araújo Miranda
 * Marcus Ian Oliveira Dias
-* Nome completo do aluno 5
+* Sidney Gabriel Abreu Magalhães
 * Weverton Tavares da Silva
 
 ## Orientador
