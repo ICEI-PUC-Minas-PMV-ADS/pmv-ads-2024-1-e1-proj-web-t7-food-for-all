@@ -16,7 +16,7 @@ A equipe utiliza o Scrum/KANBAN como base para definição do processo de desenv
 - Equipe de Design: Kamilly Macedo e Weverton Tavare, Sidney Gabriel.
 
 > **Links Úteis**:
-https://app.asana.com/0/1202777273101152/1205116629425797
+https://trello.com/invite/b/3r718hGw/ATTIc92d7b5f07ea309665325e9fc265888e4F18F833/food-for-all
 
 ### Processo
 
@@ -26,7 +26,7 @@ Para gerenciarmos o projeto, definimos como ferramenta o Asana, que está estrut
 - Doing: Assim que uma tarefa é iniciada, ela é movida para este status, significa que ela está em execução.
 - Done: Nessa lista estão todas as tarefas que passaram pelas validações e testes necessários, e se econtram concluídas.
 
-O quadro Kanban do grupo no Asana está disponível neste link: https://app.asana.com/0/1202777273101152/1205116629425797. Segue abaixo, apresentação do quadro:
+O quadro Kanban do grupo no Asana está disponível neste link: https://trello.com/invite/b/3r718hGw/ATTIc92d7b5f07ea309665325e9fc265888e4F18F833/food-for-all. Segue abaixo, apresentação do quadro:
 
 Figura X: Apresentação do quadro Kanban no Asana utilizada pelo grupo.
 
@@ -54,7 +54,7 @@ Figura X: Apresentação do quadro Kanban no Asana utilizada pelo grupo.
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/160440848/5f9c600a-f535-4ae3-b975-3d9bf9e90e02)
 
-    <figcaption>Figura 3 - Tela do esquema de cores e tags</figcaption>
+    Figura 3 - Tela do esquema de cores e tags
 </figure> 
 
   
