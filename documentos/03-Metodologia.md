@@ -50,12 +50,12 @@ Figura X: Apresentação do quadro Kanban no Asana utilizada pelo grupo.
   <li>Validação (Etapa de validação da entrega)</li>
 </ul>
 
-<figure> 
+
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/160440848/5f9c600a-f535-4ae3-b975-3d9bf9e90e02)
 
     Figura 3 - Tela do esquema de cores e tags
-</figure> 
+
 
   
 ### Ferramentas
