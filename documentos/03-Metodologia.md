@@ -13,7 +13,7 @@ A equipe utiliza o Scrum/KANBAN como base para definição do processo de desenv
 - Scrum Master: Felipe Nicolau e Lucas Araújo.
 - Product Owner: Marcus Ian.
 - Equipe de Desenvolvimento: Felipe Nicolau, Kamilly Macedo, Lucas Araujo, Marcus Ian, Weverton Tavarez e Sidney Gabriel.
-- Equipe de Design: Kamilly Macedo e Weverton Tavare, Sidney Gabriel.
+- Equipe de Design: Kamilly Macedo, Weverton Tavare e Sidney Gabriel.
 
 > **Links Úteis**:
 https://trello.com/invite/b/3r718hGw/ATTIc92d7b5f07ea309665325e9fc265888e4F18F833/food-for-all
