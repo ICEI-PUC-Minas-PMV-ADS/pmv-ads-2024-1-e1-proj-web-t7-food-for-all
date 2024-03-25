@@ -28,7 +28,10 @@ Para gerenciarmos o projeto, definimos como ferramenta o Asana, que está estrut
 
 O quadro Kanban do grupo no Asana está disponível neste link: https://trello.com/invite/b/3r718hGw/ATTIc92d7b5f07ea309665325e9fc265888e4F18F833/food-for-all. Segue abaixo, apresentação do quadro:
 
-Figura X: Apresentação do quadro Kanban no Asana utilizada pelo grupo.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/160440848/e1bbb1e4-8959-4581-88ec-13c38c664944)
+
+
+Figura X: Apresentação do quadro Kanban no Trello utilizada pelo grupo.
 
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
