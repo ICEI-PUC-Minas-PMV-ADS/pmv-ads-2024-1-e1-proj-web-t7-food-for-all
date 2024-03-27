@@ -13,14 +13,14 @@ A equipe utiliza o Scrum/KANBAN como base para definição do processo de desenv
 - Scrum Master: Felipe Nicolau e Lucas Araújo.
 - Product Owner: Marcus Ian.
 - Equipe de Desenvolvimento: Felipe Nicolau, Kamilly Macedo, Lucas Araujo, Marcus Ian, Weverton Tavarez e Sidney Gabriel.
-- Equipe de Design: Kamilly Macedo, Weverton Tavare e Sidney Gabriel.
+- Equipe de Design: Kamilly Macedo, Weverton Tavares e Sidney Gabriel.
 
 > **Links Úteis**:
 https://trello.com/invite/b/3r718hGw/ATTIc92d7b5f07ea309665325e9fc265888e4F18F833/food-for-all
 
 ### Processo
 
-Para gerenciarmos o projeto, definimos como ferramenta o Asana, que está estruturado da seguinte forma:
+Para gerenciarmos o projeto, definimos como ferramenta o Trello, que está estruturado da seguinte forma:
 - Backlog: É o repositório de todas as tarefas que foram mapeadas e que em algum momento a equipe irá fazer. 
 - To Do: É a lista de tarefas que estão prontas para serem iniciadas e compõem o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
 - Doing: Assim que uma tarefa é iniciada, ela é movida para este status, significa que ela está em execução.
