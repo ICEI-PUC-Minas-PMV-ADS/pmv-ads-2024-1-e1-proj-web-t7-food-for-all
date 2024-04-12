@@ -4,7 +4,6 @@
 ## User Flow
 
 O fluxograma apresentado logo abaixo mostra a interação dos usuários pelas telas do sistema. Cada tela será detalhada na seção de Protótipo de baixa fidelidade presente abaixo. Para visualizar com mais detalhes, acesse o 
-
 <a href="https://www.figma.com/file/KWezyqYortbK9S1cvFNpDj/Welcome-to-FigJam?type=whiteboard&node-id=0-1&t=B6ku2UXZTKvuTssy-0"> Figma
 ![User flow Food for all 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/0083316f-6372-481d-bfd0-ea52bd32573c)
 
