@@ -4,6 +4,7 @@
 ## User Flow
 
 O fluxograma apresentado logo abaixo mostra a interação dos usuários pelas telas do sistema. Cada tela será detalhada na seção de Protótipo de baixa fidelidade presente abaixo. Para visualizar com mais detalhes, acesse o 
+
 <a href="https://www.figma.com/file/KWezyqYortbK9S1cvFNpDj/Welcome-to-FigJam?type=whiteboard&node-id=0-1&t=B6ku2UXZTKvuTssy-0"> Figma
 ![User flow Food for all 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/0083316f-6372-481d-bfd0-ea52bd32573c)
 
@@ -13,10 +14,6 @@ O fluxograma apresentado logo abaixo mostra a interação dos usuários pelas te
 
 
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
 ## Protótipo
 
