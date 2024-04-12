@@ -31,5 +31,7 @@ As telas do nosso sistema apresenta uma padronização, apresentada na imagem ab
 
 ![WhatsApp Image 2024-04-12 at 20 28 59](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/beee02f8-3e64-462c-bc41-09815b797340)
 
+##
+![Welcome to FigJam (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/221cf3a6-46c4-4736-8c6b-d59922b94a3a)
 
 
