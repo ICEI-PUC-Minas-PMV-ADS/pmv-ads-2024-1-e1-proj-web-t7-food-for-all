@@ -15,7 +15,6 @@ Criar uma plataforma web dedicada à facilitação da doação de alimentos prop
 * Lucas Araújo Miranda
 * Marcus Ian Oliveira Dias
 * Sidney Gabriel Abreu Magalhães
-* Weverton Tavares da Silva
 
 ## Orientador
 
