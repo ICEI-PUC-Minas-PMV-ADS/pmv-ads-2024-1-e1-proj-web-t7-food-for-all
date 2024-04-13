@@ -35,16 +35,31 @@ As telas do nosso sistema apresenta uma padronização, apresentada na imagem ab
 
 A tela home page apresenta informações iniciais sobre nosso projeto e botões que redirencionam para locais de login e cadastro.
 
-<img width="1984" alt="Welcome to FigJam" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/abd8a8d9-0cdf-46b8-8f88-97d19d702096">
+![Home Page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/79acd58e-ed07-4a4f-b603-31e913d62d6a)
 
 ### Tela- Redirecionamento do Cadastro Doador
 A tela "Como contribuir?" apresenta a forma de contribuição, assim redirencionando para a tela de cadastro do doador.
-<img width="1896" alt="Welcome to FigJam (1)" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/ba6202c7-2aa0-4384-843e-0849755a3d40">
+![Como contribuir](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/accd62f0-04b8-4abf-88cd-df76cb0ad67f)
 
 ### Tela- Redirecionamento do Cadastro Recptor
 A tela "Como ser beneficiário" apresenta a forma do usuário de solicitar e receber os produtos solicitados.
 ![como ser beneficiario](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/2d3191ff-9f82-46cc-9080-be70b8c46ab5)
 
+### Telas - Cadastro
+A FOOD FOR ALL possui dois métodos de cadastro e são eles:
+<ul>
+<li>Cadastro do Doador- A tela de cadastro do doador possui os seguintes campos: E-mail,Senha,CPF e Nome Completo. Eles devem ser preenchidos corretamente,caso o usuário possua dificuldade de cadastro pode clicar no botão "precisa de ajuda?", ou se já possuir uma conta clicar no botão "já possui uma conta?" para ser direcionado ao login. Com todos os dados inseridos o usuário poderá clicar no botão "confirmar" para ir para proxima pagina.  </li>
 
+</ul>
+
+![imagem_2024-04-12_212146177](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/17bc6a43-a77d-412c-a585-74e0c035991b)
+
+<ul>
+ <li>Cadastro do Receptor- A tela de cadastro do receptor possui os seguintes campos:Nome Completo,Data de nascimento,Dependentes,CPF,Situação Atual,Endereço e CEP.Eles devem ser preenchidos corretamente,caso o usuário possua dificuldade de cadastro pode clicar no botão "precisa de ajuda?". Com todos os dados inseridos o usuário poderá clicar no botão "confirmar" para ir para proxima pagina.
+  
+ </li>
+</ul>
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/56e531fc-f8f9-46b8-b906-6d344d01d461)
 
 
