@@ -63,3 +63,7 @@ A FOOD FOR ALL possui dois métodos de cadastro e são eles:
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/56e531fc-f8f9-46b8-b906-6d344d01d461)
 
 
+### Tela- Ajuda
+A tela "Ajuda" aulixia o usuario a realizar o cadastro passo a passo, caso haja dúvidas, tanto para doador, quanto receptor.
+
+
