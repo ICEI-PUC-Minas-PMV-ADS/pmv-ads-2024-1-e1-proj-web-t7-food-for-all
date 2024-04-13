@@ -31,7 +31,20 @@ As telas do nosso sistema apresenta uma padronização, apresentada na imagem ab
 
 ![WhatsApp Image 2024-04-12 at 20 28 59](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/beee02f8-3e64-462c-bc41-09815b797340)
 
-##
-![Welcome to FigJam (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/221cf3a6-46c4-4736-8c6b-d59922b94a3a)
+### Tela- Home Page
+
+A tela home page apresenta informações iniciais sobre nosso projeto e botões que redirencionam para locais de login e cadastro.
+
+<img width="1984" alt="Welcome to FigJam" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/abd8a8d9-0cdf-46b8-8f88-97d19d702096">
+
+### Tela- Redirecionamento do Cadastro Doador
+A tela "Como contribuir?" apresenta a forma de contribuição, assim redirencionando para a tela de cadastro do doador.
+<img width="1896" alt="Welcome to FigJam (1)" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/ba6202c7-2aa0-4384-843e-0849755a3d40">
+
+### Tela- Redirecionamento do Cadastro Recptor
+A tela "Como ser beneficiário" apresenta a forma do usuário de solicitar e receber os produtos solicitados.
+![como ser beneficiario](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/2d3191ff-9f82-46cc-9080-be70b8c46ab5)
+
+
 
 
