@@ -67,10 +67,14 @@ Com base nos objetivos propostos acima, é notório a necessidade de definir as 
 | RF-01 | O sistema permite manipular dados dos doadores (CRUD). (Nome completo, CPF, RG, CEP, endereço e data de nascimento) | Alta | 
 | RF-02 | O sistema deve adicionar o alimento doado. |  Alta |
 | RF-03 | O sistema deve mostrar opções de alimentos para escolher. |  Alta | 
-| RF-04 | O sistema deve alterar a quantidade de alimentos doados.   |  Alta  |
+| RF-04 | O sistema deve alterar a quantidade de alimentos doados/solicitados.   |  Alta  |
 | RF-05 | O sistema deve registrar a data de validade dos alimentos. |  Alta  | 
 | RF-06 | O sistema deve enviar essas informações para o banco de dados local. | Alta |
-| RF-07 | Mostrar os registros das doações em um link informativo.   | Alta |
+| RF-07 | O sistema deve mostrar em qual unidade vai estar o alimento solicitado. | Alta |
+| RF-08 | O sistema deve ter dois cadastro, um para doador e outro para receptor | Alta |
+| RF-09 | O sistema deve ter uma aba de ajuda ao usuario ao realizar o casdastro | Média|
+| RF-10 | O sistema deve mostrar uma mensagem de confirmação de solicitação/doação | Média|
+| RF-11 | O sistema deve permitir que o usúario altere sua senha, caso perca ou esqueça | Média|
 
 **Prioridade: Alta / Média / Baixa. 
 
