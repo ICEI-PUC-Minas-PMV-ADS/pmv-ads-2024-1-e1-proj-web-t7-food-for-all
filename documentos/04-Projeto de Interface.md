@@ -83,7 +83,20 @@ A tela "Ajuda" aulixia o usuario a realizar o cadastro passo a passo, caso haja 
 ![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/be8c56b3-ec30-4f2b-aeaa-de61e2aeb6fa)
 
 
+### Telas- Recuperar minha senha
+
+As telas "recuperar minha senha" auxilia o usuário que perdeu ou esqueceu sua senha a recuperar a mesma, seguindo os passos a pessoa que solicitou essa assistência consegue de maneira simples resolver o problema.
 
 
+![Captura de tela 2024-04-13 211138    1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/38f2b6de-5c5b-4a77-964c-d88a98a0c234)
+
+
+![Captura de tela 2024-04-13 211451 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/88d5693c-89e2-4ab5-8435-f84dc9a7ae4a)
+
+
+![Captura de tela 2024-04-13 212042 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/e1aa6135-f435-4adb-9089-ed11cabf6d1b)
+
+
+###Tela- Confirmação da doação
 
 
