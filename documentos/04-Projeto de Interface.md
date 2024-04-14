@@ -8,12 +8,6 @@ O fluxograma apresentado logo abaixo mostra a interação dos usuários pelas te
 ![User flow Food for all 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/0083316f-6372-481d-bfd0-ea52bd32573c)
 
 
-
-
-
-
-
-
 ### Protótipo de baixa fidelidade
 
 As telas do nosso sistema apresenta uma padronização, apresentada na imagem abaixo:
@@ -67,6 +61,7 @@ A FOOD FOR ALL possui dois métodos de cadastro e são eles:
 A tela "Ajuda" aulixia o usuario a realizar o cadastro passo a passo, caso haja dúvidas, tanto para doador, quanto receptor.
 
 ![ajuda 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/1b9bb8a8-ec96-498f-8de6-e1e8c1ac04ee)
+
 ![ajuda 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/56189e7a-de7e-44f9-848a-601086322f58)
 
 ### Tela- Realizar/solicitar doações
