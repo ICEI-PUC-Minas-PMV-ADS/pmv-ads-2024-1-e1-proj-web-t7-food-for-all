@@ -100,7 +100,7 @@ A tela "Ajuda" aulixia o usuario a realizar o cadastro passo a passo, caso haja 
 
 ### Telas- Recuperar minha senha
 
-As telas "recuperar minha senha" auxilia o usuário que perdeu ou esqueceu sua senha a recuperar a mesma, seguindo os passos a pessoa que solicitou essa assistência consegue de maneira simples resolver o problema.
+As telas "recuperar minha senha" auxilia o usuário que perdeu ou esqueceu sua senha a recuperar a mesma, seguindo o passo a passo, o usuário que solicitou essa assistência consegue de maneira simples resolver o problema.
 
 
 ![Captura de tela 2024-04-13 211138    1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/38f2b6de-5c5b-4a77-964c-d88a98a0c234)
