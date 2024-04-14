@@ -85,7 +85,7 @@ A FOOD FOR ALL possui dois métodos de cadastro e são eles:
 
 ### Telas- Recuperar minha senha
 
-As telas "recuperar minha senha" auxilia o usuário(doador) que perdeu ou esqueceu sua senha relacionada ao cadastro realizado na primeira doação a recuperar a mesma, seguindo o passo a passo, o usuário que solicitou essa assistência consegue de maneira simples resolver o problema.
+As telas "recuperar minha senha" auxilia o doador que perdeu/esqueceu sua senha relacionada ao cadastro realizado na primeira doação a recuperar a mesma, seguindo o passo a passo, o usuário que solicitou essa assistência consegue de maneira simples resolver o problema.
 
 
 ![Captura de tela 2024-04-13 211138    1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/38f2b6de-5c5b-4a77-964c-d88a98a0c234)
@@ -99,7 +99,7 @@ As telas "recuperar minha senha" auxilia o usuário(doador) que perdeu ou esquec
 
 ### Tela- Confirmação da doação
 
-A tela "Doação feita" informa ao usuário que sua doação foi efetuada com sucesso.
+A tela "Doação feita" informa ao usuário que sua doação foi efetuada com sucesso no sistema.
 
 
 ![WhatsApp Image 2024-04-13 at 21 40 30 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/16af95c2-53d2-489e-b6ec-966bb3225260)
@@ -107,7 +107,7 @@ A tela "Doação feita" informa ao usuário que sua doação foi efetuada com su
 
 ### Tela- Solicitação efetuada
 
-A tela "Solicitação efetuada" informa ao usuário que sua solicitação de produtos foi efetuada com sucesso.
+A tela "Solicitação efetuada" informa ao usuário que sua solicitação de produtos foi efetuada com sucesso no sistema.
 
 
 ![WhatsApp Image 2024-04-13 at 21 41 29 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/00292358-2d57-4c9f-830f-ca8feda06c7b)
