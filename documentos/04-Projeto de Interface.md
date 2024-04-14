@@ -5,6 +5,7 @@
 
 O fluxograma apresentado logo abaixo mostra a interação dos usuários pelas telas do sistema. Cada tela será detalhada na seção de Protótipo de baixa fidelidade presente abaixo. Para visualizar com mais detalhes, acesse o 
 <a href="https://www.figma.com/file/KWezyqYortbK9S1cvFNpDj/Welcome-to-FigJam?type=whiteboard&node-id=0-1&t=B6ku2UXZTKvuTssy-0"> Figma
+
 ![User flow Food for all 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/0083316f-6372-481d-bfd0-ea52bd32573c)
 
 
@@ -22,8 +23,6 @@ As telas do nosso sistema apresenta uma padronização, apresentada na imagem ab
 </li>
 </ul>
 
-
-
 ![WhatsApp Image 2024-04-12 at 20 28 59](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/beee02f8-3e64-462c-bc41-09815b797340)
 
 
@@ -38,7 +37,6 @@ A tela home page apresenta informações iniciais sobre nosso projeto e botões 
 A tela "Como contribuir?" apresenta a forma de contribuição, assim redirencionando para a tela de cadastro do doador quando o usuário clicar em "realizar doação".
 
 ![Como contribuir](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/accd62f0-04b8-4abf-88cd-df76cb0ad67f)
-
 
 
 ### Tela- Redirecionamento do Cadastro Recptor
@@ -66,14 +64,12 @@ A FOOD FOR ALL possui dois métodos de cadastro e são eles:
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/56e531fc-f8f9-46b8-b906-6d344d01d461)
 
 
+### Tela- Login
 
+É referente aos usuarios que ja possuem cadastro mas querem realizar uma nova doação 
 
-### Tela- Ajuda
-A tela "Ajuda" aulixia o usuario a realizar o cadastro passo a passo, caso haja dúvidas, tanto para doador, quanto receptor.
+![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/be8c56b3-ec30-4f2b-aeaa-de61e2aeb6fa)
 
-![ajuda 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/1b9bb8a8-ec96-498f-8de6-e1e8c1ac04ee)
-
-![ajuda 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/56189e7a-de7e-44f9-848a-601086322f58)
 
 ### Tela- Realizar/solicitar doações
 
@@ -87,20 +83,9 @@ A tela "Ajuda" aulixia o usuario a realizar o cadastro passo a passo, caso haja 
 ![solicitar doação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/294be387-1f6d-4dab-b9e0-81a581a8b38f)
 
 
-
-
-### Tela- Login
-
-É referente aos usuarios que ja possuem cadastro mas querem realizar uma nova doação 
-
-![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/be8c56b3-ec30-4f2b-aeaa-de61e2aeb6fa)
-
-
-
-
 ### Telas- Recuperar minha senha
 
-As telas "recuperar minha senha" auxilia o usuário que perdeu ou esqueceu sua senha a recuperar a mesma, seguindo o passo a passo, o usuário que solicitou essa assistência consegue de maneira simples resolver o problema.
+As telas "recuperar minha senha" auxilia o usuário(doador) que perdeu ou esqueceu sua senha relacionada ao cadastro realizado na primeira doação a recuperar a mesma, seguindo o passo a passo, o usuário que solicitou essa assistência consegue de maneira simples resolver o problema.
 
 
 ![Captura de tela 2024-04-13 211138    1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/38f2b6de-5c5b-4a77-964c-d88a98a0c234)
@@ -112,8 +97,6 @@ As telas "recuperar minha senha" auxilia o usuário que perdeu ou esqueceu sua s
 ![Captura de tela 2024-04-13 212042 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/e1aa6135-f435-4adb-9089-ed11cabf6d1b)
 
 
-
-
 ### Tela- Confirmação da doação
 
 A tela "Doação feita" informa ao usuário que sua doação foi efetuada com sucesso.
@@ -122,17 +105,12 @@ A tela "Doação feita" informa ao usuário que sua doação foi efetuada com su
 ![WhatsApp Image 2024-04-13 at 21 40 30 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/16af95c2-53d2-489e-b6ec-966bb3225260)
 
 
-
-
 ### Tela- Solicitação efetuada
 
 A tela "Solicitação efetuada" informa ao usuário que sua solicitação de produtos foi efetuada com sucesso.
 
 
-
 ![WhatsApp Image 2024-04-13 at 21 41 29 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/00292358-2d57-4c9f-830f-ca8feda06c7b)
-
-
 
 
 ### Tela- Unidades fisícas
@@ -140,3 +118,11 @@ A tela "Solicitação efetuada" informa ao usuário que sua solicitação de pro
 A tela "Unidades fisícas" acompanha a solicitação efetuada, para informar ao usuário onde retirar seus produtos.
 
 ![WhatsApp Image 2024-04-13 at 21 44 11 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/f2ab1e4a-b4b2-4d69-889b-06380a14d8d8)
+
+### Tela- Ajuda
+A tela "Ajuda" aulixia o usuario a realizar o cadastro passo a passo, caso haja dúvidas, tanto para doador, quanto receptor.
+
+![ajuda 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/1b9bb8a8-ec96-498f-8de6-e1e8c1ac04ee)
+
+![ajuda 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/56189e7a-de7e-44f9-848a-601086322f58)
+
