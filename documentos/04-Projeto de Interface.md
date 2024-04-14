@@ -27,12 +27,13 @@ As telas do nosso sistema apresenta uma padronização, apresentada na imagem ab
 
 ### Tela- Home Page
 
-A tela home page apresenta informações iniciais sobre nosso projeto e botões que redirencionam para locais de login e cadastro.
+A tela home page apresenta informações iniciais sobre nosso projeto e botões que redirencionam para locais de login e as de cadastro.
 
 ![Home Page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/79acd58e-ed07-4a4f-b603-31e913d62d6a)
 
 ### Tela- Redirecionamento do Cadastro Doador
-A tela "Como contribuir?" apresenta a forma de contribuição, assim redirencionando para a tela de cadastro do doador.
+A tela "Como contribuir?" apresenta a forma de contribuição, assim redirencionando para a tela de cadastro do doador quando o usuário clicar em "realizar doação".
+
 ![Como contribuir](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/accd62f0-04b8-4abf-88cd-df76cb0ad67f)
 
 ### Tela- Redirecionamento do Cadastro Recptor
