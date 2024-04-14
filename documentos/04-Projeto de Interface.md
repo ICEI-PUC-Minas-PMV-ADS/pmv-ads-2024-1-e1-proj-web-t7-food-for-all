@@ -107,8 +107,15 @@ A tela "Doação feita" informa ao usuário que sua doação foi efetuada com su
 
 ### Tela- Solicitação efetuada
 
-A tela "solicitação efetuada" informa ao usuário que sua solicitação de produtos foi efetuada com sucesso.
+A tela "Solicitação efetuada" informa ao usuário que sua solicitação de produtos foi efetuada com sucesso.
 
 
 
 ![WhatsApp Image 2024-04-13 at 21 41 29 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/00292358-2d57-4c9f-830f-ca8feda06c7b)
+
+
+### Tela- Unidades fisícas
+
+A tela "Unidades fisícas" acompanha a solicitação efetuada, para informar ao usuário onde retirar seus produtos.
+
+![WhatsApp Image 2024-04-13 at 21 44 11 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/f2ab1e4a-b4b2-4d69-889b-06380a14d8d8)
