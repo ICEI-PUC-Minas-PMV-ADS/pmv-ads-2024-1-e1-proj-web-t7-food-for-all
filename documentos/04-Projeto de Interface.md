@@ -97,6 +97,13 @@ As telas "recuperar minha senha" auxilia o usuário que perdeu ou esqueceu sua s
 ![Captura de tela 2024-04-13 212042 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/e1aa6135-f435-4adb-9089-ed11cabf6d1b)
 
 
-###Tela- Confirmação da doação
+### Tela- Confirmação da doação
+
+A tela "Doação feita" informa ao usuário que sua doação foi efetuada com sucesso.
+
+
+![WhatsApp Image 2024-04-13 at 21 40 30 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/16af95c2-53d2-489e-b6ec-966bb3225260)
+
+
 
 
