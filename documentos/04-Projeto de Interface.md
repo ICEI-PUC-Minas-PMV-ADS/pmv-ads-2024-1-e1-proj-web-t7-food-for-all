@@ -105,5 +105,10 @@ A tela "Doação feita" informa ao usuário que sua doação foi efetuada com su
 ![WhatsApp Image 2024-04-13 at 21 40 30 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/16af95c2-53d2-489e-b6ec-966bb3225260)
 
 
+### Tela- Solicitação efetuada
+
+A tela "solicitação efetuada" informa ao usuário que sua solicitação de produtos foi efetuada com sucesso.
 
 
+
+![WhatsApp Image 2024-04-13 at 21 41 29 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/00292358-2d57-4c9f-830f-ca8feda06c7b)
