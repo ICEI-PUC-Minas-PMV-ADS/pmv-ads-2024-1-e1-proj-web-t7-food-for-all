@@ -71,17 +71,21 @@ A tela "Ajuda" aulixia o usuario a realizar o cadastro passo a passo, caso haja 
 
 ### Tela- Realizar/solicitar doações
 
-A tela "Faça doações" possui campos para que o doador selecione o alimento que vai doar, adjacente a quantidade, data de validade e o local que a doação será entregue.
+ <li>A tela "Faça doações" possui campos para que o doador selecione o alimento que vai doar, adjacente a quantidade, data de validade e o local que a doação será entregue.
+
+![realizar doação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/300645e8-94bd-4abe-9f1f-7f855d5f0857)
 
 
-A tela "Escolha seus itens" possui campos para que o receptor selecione o alimento que necessita, as quantidades e o local que irá buscar.
+ <li>A tela "Escolha seus itens" possui campos para que o receptor selecione o alimento que necessita, as quantidades e o local que irá buscar.
 
+![solicitar doação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/294be387-1f6d-4dab-b9e0-81a581a8b38f)
 
 
 ### Tela- Login
 
 É referente aos usuarios que ja possuem cadastro mas querem realizar uma nova doação 
 
+![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/be8c56b3-ec30-4f2b-aeaa-de61e2aeb6fa)
 
 
 
