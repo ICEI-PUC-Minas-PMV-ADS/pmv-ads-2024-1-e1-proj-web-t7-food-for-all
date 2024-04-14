@@ -37,7 +37,8 @@ A tela "Como contribuir?" apresenta a forma de contribuição, assim redirencion
 ![Como contribuir](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/accd62f0-04b8-4abf-88cd-df76cb0ad67f)
 
 ### Tela- Redirecionamento do Cadastro Recptor
-A tela "Como ser beneficiário" apresenta a forma do usuário de solicitar e receber os produtos solicitados.
+A tela "Como ser beneficiário" apresenta a forma do usuário de solicitar e receber os produtos requisistados, assim redirencionando para a tela de cadastro do receptor quando o usuário clicar em "realizar cadastro".
+
 ![como ser beneficiario](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/2d3191ff-9f82-46cc-9080-be70b8c46ab5)
 
 ### Telas - Cadastro
