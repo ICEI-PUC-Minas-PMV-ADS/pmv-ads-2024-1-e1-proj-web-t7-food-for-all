@@ -74,7 +74,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | http://....                            |
 | Documentos do projeto               | GitHub                             | [http://....](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/tree/d2b97d22a09cab99600c97ecfb2684c22c70ec3c/documentos)                            |
-| Projeto de Interface                | Figma                              | http://....                            |
+| Projeto de Interface                | Figma                              | [http://....](https://www.figma.com/file/KWezyqYortbK9S1cvFNpDj?type=whiteboard&node-id=0-1&t=pmLFtbhQVEaeAkZY-0&fuid=1341857862102049402)                            |
 | Gerenciamento do Projeto            | Trello                    | [http://....](https://trello.com/b/3r718hGw/food-for-all)  |                          
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
