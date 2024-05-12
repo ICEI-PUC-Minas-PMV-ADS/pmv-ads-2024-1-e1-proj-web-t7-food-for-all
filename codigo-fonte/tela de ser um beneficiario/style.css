@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body{
+  background-color:#EFF4FF;
+  font-family: "Poppins", sans-serif;
+}
+
+header{
+  color: black;
+  width:auto;
+  padding:20px;
+  border: 1px solid #e9e3e3;
+  height: 80px;
+  background-color:#CCE4E8;
+  text-align:center;
+  max-width::none;
+  margin: 0 auto;
+}
+
+.logo{
+    height: 120px;
+    cursor: pointer;
+    cursor: hand;
+    position:absolute;
+    top: 9px;   
+    left: 10px; 
+}
+
+.corpo{
+  font-size: 120%;
+  width: 2000px;
+  font-weight:300;
+  padding: 40px;
+  text-align:center;
+  max-width: 950px;
+  margin: 0 auto;
+  cursor: pointer;
+  cursor: hand;
+  
+  
+}
+
+input[type=button]{
+    background-color:#CCE4E8;
+    text-align:center;
+    font-family: "Poppins", sans-serif;
+    color: black;
+    font-weight:600;
+    font-size: 14px;
+    width: auto;
+    padding: 30px;
+    text-align:center;
+    max-width: 400px;
+    margin: 0 auto;
+    margin-left:auto;
+    margin-right: auto;
+    height: 75px;
+    display: block;
+    width: 14%; /* largura do botao*/
+    padding: 0.2rem;
+     border-radius: 0.8rem;
+     border: 1px solid var(#CCE4E8);
+     color: var(#323232);
+}
+
+div.footer {
+width:auto;
+display: flex;
+flex-direction: row;
+background-color: #CCE4E8;
+margin-top: 8%;
+align-items: stretch;
+justify-content: space-evenly;
+}
+
+div.containerPart {
+display: flex;
+flex-direction: column;
+align-items: stretch;
+font-size: 12px;
+justify-content: flex-start;
+padding: 0%;
+}
+p.partTitle {
+  color:#323232;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.8rem;
+  font-weight: bold;
+  text-align: center;
+}
+div.containerIconAndText {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+img.icon {
+  height: 20px;
+}
+div.containerLine {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+div.line {
+  width: 5px;
+  height: 4rem;
+  background-color: #EFF4FF;
+}
+
+@media screen and (max-width: 713px){
+  div.containerTitle {
+    padding-top: 5rem;
+  }
+  p.text {
+    font-size: 0.6rem;
+  }
+  p.textCheck {
+    font-size: 0.6rem;
+  }
+  button.buttonResetPassword {
+    font-size: 0.6rem;
+  }
+  div.footer {
+    flex-direction: column;
+    padding-bottom: 3rem;
+  }
+  div.line {
+    display: none;
+  }
+  div.containerPart {
+    align-items: center;
+  }
+}
+
+
+
+
+
+
