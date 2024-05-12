@@ -210,7 +210,9 @@ O acesso da tela de "Tutorial do Cadastro do Receptor", ocorre quando o usuário
 
 Exemplo da tela de tutorial do cadastro do receptor:
 ![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163361061/80432de3-96d3-414f-ae6d-53ca3ee41695)
+
 ![2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163361061/25ef0108-257c-4814-bec1-0009a91234fa)
+
 ![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163361061/1b63773f-6f74-403b-9fad-9f1fd2ca88d3)
 
 ### Requisito atendido
