@@ -217,7 +217,7 @@ Exemplo da tela de tutorial do cadastro do receptor:
 
 ### Requisito atendido
 
-RF-09: O sistema deve ter uma aba de ajuda ao usuario ao realizar o casdastro
+RF-09: O sistema deve ter uma aba de ajuda ao usuario ao realizar o cadastro
 
 ### Artefatos da Funcionalidade
 
