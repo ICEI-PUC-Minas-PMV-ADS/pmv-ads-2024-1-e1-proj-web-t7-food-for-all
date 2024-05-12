@@ -264,6 +264,38 @@ Após entrar na tela "Como contribuir" clique no botão "Realizar cadastro" e o 
 
 Responsável: Marcus Ian
 
+### Cadastro doador 2
+
+O acesso a tela de cadastro do doador 2 pode ser realizado após o usuário passar pela tela de "Ser um beneficiario". As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo da tela de cadastro doador 2:
+![Captura de tela cadastro doador 2 2024-05-12 202702](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/8eed718e-baec-42dc-b451-fbda2380fb99)
+
+
+### Requisito atendido
+
+RF-08: O sistema deve ter dois cadastros, um para doador e outro para receptor.
+
+RF-06	O sistema deve enviar essas informações para o banco de dados local.
+
+### Artefatos da funcionalidade
+
+●cadastro doador 2.HTML
+
+●cadastro doador 2.CSS
+
+### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL:
+
+Após entrar na tela "Ser beneficiario" clique no botão "Realizar cadastro" e o usuário será redirecionado para a tela de cadastro do doador 2.
+
+### Responsável
+
+Responsável: Marcus Ian
+
+
+
 
 
 
