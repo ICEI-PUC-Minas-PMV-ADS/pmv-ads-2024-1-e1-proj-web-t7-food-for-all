@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    --color-primary: #cce4e8;
+    --color-secundary: #eff4ff;
+    --color-tertiary: #323233;
+}
+.header-img {
+  position: absolute; /* Define a posição absoluta */
+  top: 10px; /* Distância do topo */
+  left: 20px; /* Distância da esquerda */
+  height: auto; /* Altura da imagem */
+  width: 90px; /* Largura será ajustada automaticamente para manter a proporção */
+  z-index: 1; /* Garante que a imagem fique sobre o texto do cabeçalho */
+  cursor:pointer;
+}
+body {
+    font-family: arial, sans-serif;
+    background-color: var(--color-secundary);
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div.root {
+    display: flex;
+    background-color: var(--color-secundary);
+    padding: 0;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-self: flex-start;
+}
+div.containertitle {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-primary);
+    padding: 2rem 0;
+}
+h1 {
+    color: var(--color-tertiary);
+    font-family: "poppins", sans-serif;
+}
+div.containertext {
+    width: 70%;
+    background-color: var(--color-primary);
+    margin-top: 1.2rem;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p.text {
+    color: var(--color-tertiary);
+    font-size: 0.8rem;
+    font-family: "poppins", sans-serif;
+}
+button.buttonajuda {
+  display: flex;
+    margin-right: 370px;
+    padding: 0.2rem 4rem;
+  border-radius: 0.8rem;
+  border: 1px solid var(--color-tertiary);
+  background-color: var(--color-primary);
+  color: var(--color-tertiary);
+  font-family: "Poppins", sans-serif;
+  font-size: 0.7rem;
+  cursor: pointer;
+  margin-top: 2rem;
+}
+div.containerinputs {
+    width: 70%;
+    margin-top: 1.4rem;
+    display: flex;
+    flex-direction: column;
+}
+input.inputpass {
+    padding: 0.5rem;
+  margin-top: 0.4rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--color-primary);
+  text-align: center;
+  background: transparent;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.7rem;
+}
+button.buttonconta {
+  display: flex;
+  padding: 0.2rem 4rem;
+  border-radius: 0.8rem;
+  border: 1px solid var(--color-tertiary);
+  background-color: var(--color-primary);
+  color: var(--color-tertiary);
+  font-family: "Poppins", sans-serif;
+  font-size: 0.7rem;
+  cursor: pointer;
+  margin-left: 370px;
+  margin-top: -25px;
+}
+button.buttonconfirmar {
+    padding: 0.2rem 4rem;
+  border-radius: 0.8rem;
+  border: 1px solid var(--color-tertiary);
+  background-color: var(--color-primary);
+  color: var(--color-tertiary);
+  font-family: "Poppins", sans-serif;
+  font-size: 1.2rem;
+  cursor: pointer;
+  margin-top: 2rem;
+}
+div.footer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: var(--color-primary);
+    margin-top: 3rem;
+    align-items: stretch;
+    justify-content: space-evenly;
+  }
+  div.containerPart {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    padding: 0.4rem
+  }
+  p.partTitle {
+    color: var(--color-tertiary);
+    font-family: "Poppins", sans-serif;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-align: center;
+  }
+  p.partText {
+    color: var(--color-tertiary);
+    font-family: "Poppins", sans-serif;
+    font-size: 0.7rem;
+    text-align: left;
+    margin: 0.2rem;
+  }
+  div.containerIconAndText {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  img.icon {
+    height: 20px;
+  }
+  div.containerLine {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  div.line {
+    width: 2px;
+    height: 3rem;
+    background-color: var(--color-secundary);
+  }
+  
+  @media screen and (max-width: 713px){
+    div.containerTitle {
+      padding-top: 5rem;
+    }
+    p.text {
+      font-size: 0.6rem;
+    }
+    p.textCheck {
+      font-size: 0.6rem;
+    }
+    button.buttonResetPassword {
+      font-size: 0.6rem;
+    }
+    div.footer {
+      flex-direction: column;
+      padding-bottom: 3rem;
+    }
+    div.line {
+      display: none;
+    }
+    div.containerPart {
+      align-items: center;
+    }
+}
