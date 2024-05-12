@@ -2,7 +2,28 @@
 
 Implementação da aplicação descritas por meio dos requisitos codificados. 
 
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
+### Tela de Confirmação de doação (RF-10 O sistema deve mostrar uma mensagem de confirmação de solicitação/doação)
+
+Responsável: Felipe Nicolau
+
+A mensagem de confirmação de doação, será apresentada após a conclusão da doação.
+
+Tela de confirmação de doação:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160440848/d3a79d2b-6e53-4b65-a729-f35f3e172b51)
+
+
+### Tela de Recuperação de senha (RF-11 O sistema deve permitir que o usúario altere sua senha, caso perca ou esqueça)
+
+Responsável: Felipe Nicolau
+
+A tela de recuperação de senha será exibida após solicitação do usuário, e inserção de código que será enviado por e-mail.
+
+Tela de recuperação de senha: 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160440848/3964281c-8e19-4e7d-b2e5-51535769009e)
+
+
 
 ### Ser beneficiário do projeto 
 O acesso a tela poderá ser feito através da home page, ao clicar em “ser beneficiario”. As estruturas de dados foram baseadas em HTML, CSS e JS.
@@ -131,9 +152,5 @@ Ao clicar em “Ver em qual unidade esta disponivel” apos confirmar a solicita
 Responsável: Kamilly Macedo
 
 
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
 
