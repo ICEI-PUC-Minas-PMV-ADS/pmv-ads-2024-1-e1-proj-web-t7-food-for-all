@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="cadastro doador 2.css">
+    <title>Cadastro doador</title>
+    <img src="LogoGG.JPG" alt="Logo" class="header-img">
+</head>
+<body>
+  <div class="root">
+    <div class="containertitle">
+      <h1>Cadastro</h1>
+     </div>
+     <div class="containertext">
+        <p class="text">Informações Pessoais</p>
+        </div>
+     <div class="containerinputs">
+        <p class="inputtitle">Nome Completo</p>
+        <input class="inputpass" type="email" placeholder="Insira seu nome completo">
+      </div>
+      <div class="containerinputs">
+        <p class="inputtitle">CPF</p>
+        <input class="inputpass" type="text" placeholder="CNPJ/CPF">
+     </div>
+      <div class="containerinputs">
+         <p class="inputtitle">Data de nascimento</p>
+         <input class="inputpass" type="date" placeholder="insira sua senha (pelo menos 8 caracteres)">
+      </div>
+      <div class="containerinputs">
+         <p class="inputtitle">Situação atual</p>
+         <input class="inputpass" type="text" placeholder="opçoes: desempregado, em situação de rua, passando dificuldade finaceira, outro
+         ">
+      </div>
+      <div class="containerinputs">
+        <p class="inputtitle">Dependentes</p>
+        <input class="inputpass" type="text" placeholder="opcçoes: apenas eu, 2,3,4,5 ou mais">
+     </div>
+     <div class="containerinputs">
+        <p class="inputtitle">Endereço e CEP</p>
+        <input class="inputpass" type="text" placeholder="Insira seu endereço e CEP">
+     </div>
+      <div>
+      <button class="buttonconta">
+        Precisa de Ajuda?
+      </button>
+      </div>
+      <button class="buttonconfirmar">
+        Proximo
+      </button>
+      <div class="footer">
+      <div class="containerPart">
+        <p class="partTitle"><b>INSTITUCIONAL</b></p>
+        <p class="partText"><b>Quem somos?</b></p>
+        <p class="partText"><b>Como contribuir?</b></p>
+        <p class="partText"><b>Como ser beneficiário?</b></p>
+      </div>
+      <div class="containerLine">
+        <div class="line"></div>
+      </div>
+      <div class="containerPart">
+        <p class="partTitle"><b>AJUDA E SUPORTE</b></p>
+        <div class="containerIconAndText">
+          <img class="icon" src="Imagem do WhatsApp de 2024-05-08 à(s) 20.50.42_ab3792b2.jpg"/>
+          <p class="partText"><b>(11) 4002-8922</b></p>
+        </div>
+        <div class="containerIconAndText">
+          <img class="icon" src="Imagem do email de 2024-05-08 à(s) 20.50.41_8910c656.jpg"/>
+          <p class="partText"><b>foodforal@gmail.com</b></p>
+        </div>
+      </div>
+      <div class="containerLine">
+        <div class="line"></div>
+      </div>
+      <div class="containerPart">
+        <p class="partTitle"><b>REDES SOCIAIS</b></p>
+        <div class="containerIconAndText">
+          <img class="icon" src="Imagem do instagram de 2024-05-08 à(s) 20.50.42_3b89ea95.jpg"/>
+          <p class="partText"><a href="https://www.instagram.com/foodforall.mg?igsh=OXh4eWZ2eXU4eHpj&utm_source=qr" target="_blank" rel="external">@FOODFORALL</p></a>        </div>
+        </div>
+       </div>
+      </div>
+</body>
+</html>
