@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styleFaça.css">;
+  <title>Faça Doações</title>
+  <img src="LogoGG.JPG" alt="Logo" class="header-img">
+</head>
+<body>
+  <div class="root">
+    <div class="containerTitle">
+      <h1>Faça Doações</h1>
+    </div>
+    <div class="containerText">
+      <p class="text">Cadastre sua doação</p>
+    </div>
+    <div class="containerInputs">
+      <p class="inputTitle">Tipo de alimento/produto </p>
+      <input class="inputPass" type="email" placeholder="Insira os produtos a serem doados">
+    </div>
+    <div class="containerInputs">
+      <p class="inputTitle">Quantidade</p>
+      <input class="inputPass" type="number" placeholder="Insira a quantidade a ser doada">
+      </div>
+      <div class="containerInputs">
+        <p class="inputTitle">Data de Validade</p>
+        <input class="inputPass" type="date" placeholder="Insira Data de validade">
+    
+    </div>
+    <fieldset>
+     <legend> Local a ser Doado </legend>
+     <input type="radio" name="local" id="inx" > <label for="inx">X</label>
+     <input type="radio" name="local" id="iny" > <label for="iny">Y</label>
+    </fieldset>
+    <button class="buttonadicionar">
+        Adicionar Produto
+    </button>
+    
+        <button class="buttonconfirmar">
+            Confirmar
+          </button>
+    <div class="footer">
+      <div class="containerPart">
+        <p class="partTitle">INSTITUCIONAL</p>
+        <p class="partText">Quem somos?</p>
+        <p class="partText">Como contribuir?</p>
+        <p class="partText">Como ser beneficiário?</p>
+      </div>
+      <div class="containerLine">
+        <div class="line"></div>
+      </div>
+      <div class="containerPart">
+        <p class="partTitle">AJUDA E SUPORTE</p>
+        <div class="containerIconAndText">
+          <img class="icon" src="Imagem 7.jpeg"/>
+          <p class="partText">(11) 4002-8922</p>
+        </div>
+        <div class="containerIconAndText">
+          <img class="icon" src="Imagem 8.jpeg"/>
+          <p class="partText">foodforal@gmail.com</p>
+        </div>
+      </div>
+      <div class="containerLine">
+        <div class="line"></div>
+      </div>
+      <div class="containerPart">
+        <p class="partTitle">REDES SOCIAIS</p>
+        <div class="containerIconAndText">
+          <img class="icon" src="Imagem 9.jpeg"/>
+          <p class="partText"><a href="https://www.instagram.com/foodforall.mg?igsh=OXh4eWZ2eXU4eHpj&utm_source=qr" target="_blank" rel="external">@FOODFORALL</p></a>        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
