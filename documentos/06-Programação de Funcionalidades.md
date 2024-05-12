@@ -160,6 +160,7 @@ Exemplo da tela de realização da doação:
 
 ### Requisito atendido
 RF-04:O sistema deve alterar a quantidade de alimentos doados/solicitados.
+
 RF-05:O sistema deve registrar a data de validade dos alimentos.
 
 ### Artefatos da Funcionalidade
