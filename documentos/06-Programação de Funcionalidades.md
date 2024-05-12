@@ -178,6 +178,30 @@ Ao completar todos os campos da tela de "Login" e clicar em confirmar, o usuári
 ### Responsável
 Responsável: Sidney Gabriel
 
+### Tutorial do cadastro do doador
+
+O acesso da tela de "Tutorial do Cadastro do Doador", ocorre quando o usuário clica no botão de "Precisa de ajuda?" na tela: "Cadastro do Doador". As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo da tela de tutorial do cadastro do doador:![imagem_2024-05-12_190956581](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163361061/79a895b7-f0ba-4128-9edd-d1b984096512)
+
+### Requisito atendido
+
+RF-09: O sistema deve ter uma aba de ajuda ao usuario ao realizar o casdastro
+
+### Artefatos da Funcionalidade
+
+●RF-09: O sistema deve ter uma aba de ajuda ao usuario ao realizar o casdastro
+
+### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL:
+
+Se o usuário possuir duvidas na forma de cadastro da doação, ele poderá clicar no "Precisa de ajuda?", para ser redirecionado para a tela de tutorial.
+
+
+
+
+
 
 
 
