@@ -186,7 +186,7 @@ Exemplo da tela de tutorial do cadastro do doador:![imagem_2024-05-12_190956581]
 
 ### Requisito atendido
 
-RF-09: O sistema deve ter uma aba de ajuda ao usuario ao realizar o casdastro.
+RF-09: O sistema deve ter uma aba de ajuda ao usuario ao realizar o cadastro.
 
 ### Artefatos da Funcionalidade
 
