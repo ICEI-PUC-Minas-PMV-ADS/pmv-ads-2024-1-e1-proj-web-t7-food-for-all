@@ -294,6 +294,33 @@ Após entrar na tela "Ser beneficiario" clique no botão "Realizar cadastro" e o
 
 Responsável: Marcus Ian
 
+### Tela de login
+
+O acesso a tela de login pode ser realizado após o usuário passar pela tela de "Ajuda". As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo da tela de login:![Captura de tela - tela de login 2024-05-12 204105](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/45cdd245-e0ba-4fad-b54d-e236a7ea8ea3)
+
+### Requisito atendido
+
+RF-06	O sistema deve enviar essas informações para o banco de dados local.
+
+### Artefatos da funcionalidade
+
+●login.HTML
+
+●login.CSS
+
+### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL:
+
+Após entrar na tela "Ajuda" clique no botão "Confirmar" e o usuário será redirecionado para a tela de login.
+
+### Responsável
+
+Responsável: Marcus Ian
+
+
 
 
 
