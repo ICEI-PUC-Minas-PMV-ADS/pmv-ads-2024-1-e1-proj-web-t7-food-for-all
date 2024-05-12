@@ -30,16 +30,7 @@ As telas do nosso sistema apresenta uma padronização, apresentada na imagem ab
 
 A tela home page apresenta informações iniciais sobre nosso projeto e botões que redirencionam para locais de login e as de cadastro.
 
-![unidades](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/19137801-2e41-4744-8859-9ad45a2966f6)
-![solicitar doação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/ec1be9a3-d43f-4674-a4f8-f58501d7de94)
-![solicitação efetu](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/4f3d9a2a-3160-4fd8-a8d1-80fc70800f02)
-![realizar doação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/7cc93281-b0e1-4d8a-9db4-566bdb9298b7)
-![escolha itens](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/5fd2218c-f15b-45bc-be19-3046adcb5393)
-
-![fazer doação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/79d54aae-c572-46a5-9272-fe6e58fec12a)
-
-![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/ca066e2f-660d-4dbc-9d1f-39ebebf81c75)
-
+![home](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/516b94de-c23d-4c2e-ae66-424df4a5ff60)
 
 ### Tela- Redirecionamento do Cadastro Doador
 A tela "Como contribuir?" apresenta a forma de contribuição, assim redirencionando para a tela de cadastro do doador quando o usuário clicar em "realizar doação".
@@ -50,8 +41,7 @@ A tela "Como contribuir?" apresenta a forma de contribuição, assim redirencion
 ### Tela- Redirecionamento do Cadastro Recptor
 A tela "Como ser beneficiário" apresenta a forma do usuário de solicitar e receber os produtos requisistados, assim redirencionando para a tela de cadastro do receptor quando o usuário clicar em "realizar cadastro".
 
-![como ser beneficiario](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/2d3191ff-9f82-46cc-9080-be70b8c46ab5)
-
+![ser benef](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/530efd34-cf76-424e-9671-e8a6dd98ffb8)
 
 
 ### Telas - Cadastro
@@ -61,7 +51,7 @@ A FOOD FOR ALL possui dois métodos de cadastro e são eles:
 
 </ul>
 
-![imagem_2024-04-12_212146177](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-projeto-ong/assets/163361061/17bc6a43-a77d-412c-a585-74e0c035991b)
+![cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/43d6a742-0675-4491-bfa0-66a7a6ca1a4f)
 
 <ul>
  <li>Cadastro do Receptor- A tela de cadastro do receptor possui os seguintes campos:Nome Completo,Data de nascimento,Dependentes,CPF,Situação Atual,Endereço e CEP.Eles devem ser preenchidos corretamente,caso o usuário possua dificuldade de cadastro pode clicar no botão "precisa de ajuda?". Com todos os dados inseridos o usuário poderá clicar no botão "confirmar" para ir para proxima pagina.
@@ -95,14 +85,9 @@ A FOOD FOR ALL possui dois métodos de cadastro e são eles:
 
 As telas "recuperar minha senha" auxilia o doador que perdeu/esqueceu sua senha relacionada ao cadastro realizado na primeira doação a recuperar a mesma, seguindo o passo a passo, o usuário que solicitou essa assistência consegue de maneira simples resolver o problema.
 
-
-![Captura de tela 2024-04-13 211138    1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/38f2b6de-5c5b-4a77-964c-d88a98a0c234)
-
-
-![Captura de tela 2024-04-13 211451 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/88d5693c-89e2-4ab5-8435-f84dc9a7ae4a)
-
-
-![Captura de tela 2024-04-13 212042 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/e1aa6135-f435-4adb-9089-ed11cabf6d1b)
+![recu senha 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/1cdd3c47-914c-4d39-83b9-e363c30e5181)
+![recu senha2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/fbca46a1-1c60-4a33-9e77-ccdadcf0dd38)
+![recu  senha](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/2a0d2f9d-11bb-4088-a96e-5399ad65dc14)
 
 
 ### Tela- Confirmação da doação
@@ -130,7 +115,7 @@ A tela "Unidades fisícas" acompanha a solicitação efetuada, para informar ao 
 ### Tela- Ajuda
 A tela "Ajuda" aulixia o usuario a realizar o cadastro passo a passo, caso haja dúvidas, tanto para doador, quanto receptor.
 
-![ajuda 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/1b9bb8a8-ec96-498f-8de6-e1e8c1ac04ee)
+![Captura de tela 2024-05-12 142538](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/afc063a7-9811-43b0-8a56-47f649d2f979)
 
-![ajuda 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/56189e7a-de7e-44f9-848a-601086322f58)
+![ajuda1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/d73a4d1c-eaae-4669-81aa-2ffd4bd26bc8)
 
