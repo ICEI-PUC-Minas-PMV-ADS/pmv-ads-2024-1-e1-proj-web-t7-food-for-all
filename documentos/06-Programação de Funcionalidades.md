@@ -221,9 +221,9 @@ RF-09: O sistema deve ter uma aba de ajuda ao usuario ao realizar o cadastro
 
 ### Artefatos da Funcionalidade
 
-●TutorialD.html
+●TutorialR.html
 
-●CSSD.css
+●CSSR.css
 
 ### Instruções de acesso
 
