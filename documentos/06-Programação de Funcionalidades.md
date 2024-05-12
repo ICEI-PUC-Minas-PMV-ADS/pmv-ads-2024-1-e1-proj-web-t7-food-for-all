@@ -45,7 +45,10 @@ Exemplo da tela de login:
 
 #### Requisito atendido
 
-RF-8: O sistema deve ter dois cadastro um para doador e outro para receptor
+RF-02	O sistema deve adicionar o alimento doado.	Alta
+RF-03	O sistema deve mostrar opções de alimentos para escolher.	Alta
+RF-04	O sistema deve alterar a quantidade de alimentos doados/solicitados.	Alta
+RF-05	O sistema deve registrar a data de validade dos alimentos.
 
 #### Artefatos da funcionalidade
 
