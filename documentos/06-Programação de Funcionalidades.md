@@ -4,34 +4,37 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
-### Título da funcionalidade
+### Ser beneficiário do projeto 
+Responsável: Kamilly Macedo
 
-[Adicione imagem da funcionalidade/tela]
+O acesso a tela de login poderá ser feito através do menu “Entrar”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
+Exemplo da tela de login:
+
+![ser benef](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/assets/160599457/e729cc5a-ce72-4b31-9f03-72a04ad06c38)
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
-
+RF-8: O sistema deve ter dois cadastro um para doador e outro para receptor
 
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
-
+●index.css
+●index.html
 
 #### Estrutura de Dados
 
 [Caso exista estrutura de dados, adicione aqui]
 
-
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+Abra um navegador de Internet e informe a seguinte URL: 
+
+Ao clicar em “Realizar cadastro” no meio da tela, terá acesso a página de cadastro.
 
 
 #### Responsável
-
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
+Responsável: Kamilly Macedo
 
 
 
