@@ -198,9 +198,9 @@ Abra um navegador de Internet e informe a seguinte URL:
 
 Se o usuário possuir duvidas na forma de cadastro da doação, ele poderá clicar no "Precisa de ajuda?", para ser redirecionado para a tela de tutorial.
 
+### Responsável
 
-
-
+Responsável: Sidney Gabriel
 
 
 
