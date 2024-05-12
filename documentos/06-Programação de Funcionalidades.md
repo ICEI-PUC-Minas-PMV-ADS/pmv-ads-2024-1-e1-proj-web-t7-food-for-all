@@ -7,7 +7,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 ### Ser beneficiário do projeto 
 Responsável: Kamilly Macedo
 
-O acesso a tela de login poderá ser feito através do menu “Entrar”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a tela poderá ser feito através da home page, ao clicar em “ser beneficiario”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de login:
 
@@ -35,6 +35,34 @@ Ao clicar em “Realizar cadastro” no meio da tela, terá acesso a página de 
 
 #### Responsável
 Responsável: Kamilly Macedo
+
+### Realizar cadastro para receber doaçoes 
+Responsável: Kamilly Macedo
+
+O acesso a tela de cadastro poderá ser feito através da tela de ser beneficiario, clincando em “Realizar cadastro”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de login:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/assets/160599457/1a4d44f5-9024-44e7-b687-285227ba8f2d)
+
+#### Requisito atendido
+
+RF-8: O sistema deve ter dois cadastro um para doador e outro para receptor
+
+#### Artefatos da funcionalidade
+
+●index.css
+●index.html
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, adicione aqui]
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+Apos clicar em “Realizar cadastro” no meio da tela, da acesso a essa página de cadastro para que o receptor solicite os alimentos.
 
 
 
