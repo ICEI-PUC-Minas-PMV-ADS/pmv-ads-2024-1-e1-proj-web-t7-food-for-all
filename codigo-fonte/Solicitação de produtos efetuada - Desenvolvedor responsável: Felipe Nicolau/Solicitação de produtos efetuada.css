@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    --color-primary: #CCE4E8;
+    --color-secondary: #EFF4FF;
+    --color-tertiary: #323232;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eff4ff; /* Cor de fundo */
+    font-family: "Poppins", sans-serif;
+}
+
+.header {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: black; /* Cor do texto */
+  padding: 80px 0;
+  background-color: #cce4e8; /* Cor da tarja */
+  margin: 0;
+  position: relative;
+}
+
+
+.content {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.content h2 {
+    font-size: 18px;
+}
+
+.content p {
+    font-size: 16px;
+}
+
+input[type="text"] {
+    width: 250px;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background-color:#eff4ff ;
+    ;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #cce4e8;
+    color: black;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+div.containerTitle {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-primary);
+    padding: 10rem 0;
+  }
+  
+  h1 {
+    color: var(--color-tertiary);
+  }
+
+  div.containerSubtitle {
+    width: 70%;
+    background: var(--color-primary);
+    margin-top: 1.2rem;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  p.text {
+    color: var(--color-tertiary);
+    font-size: 0.8rem;
+  }
+
+  div.containerInputs {
+    width: 70%;
+    margin-top: 1.4rem;
+    display: flex;
+    flex-direction: column;
+  }
+  p.inputTitle {
+    color: var(--color-tertiary);
+    font-size: 0.8rem;
+  }
+
+  input.inputPass {
+    /* width: 100%; */
+    padding: 0.5rem;
+    margin-top: 0.2rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--color-primary);
+    text-align: center;
+    background: transparent;
+    font-size: 0.7rem;
+  }
+
+  div.containerBottom {
+    width: 70%;
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  div.SavePassword {
+    display: flex;
+    flex-direction: row;
+  }
+
+  p.textCheck {
+    color: var(--color-tertiary);
+    font-size: 0.8rem;
+  }
+
+  button.buttonResetPassword {
+    padding: 0.2rem 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--color-tertiary);
+    background-color: var(--color-primary);
+    color: var(--color-tertiary);
+    font-size: 0.7rem;
+    cursor: pointer;
+  }
+
+    div.footer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: var(--color-primary);
+    margin-top: auto;
+    align-items: stretch;
+    justify-content: space-evenly;
+    position: fixed;
+    bottom: 0;
+
+  }
+  div.containerPart {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    padding: 0.5rem
+  }
+  p.partTitle {
+    color: var(--color-tertiary);
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  p.partText {
+    color: var(--color-tertiary);
+    font-size: 0.7rem;
+    text-align: left;
+    margin: 0.2rem;
+  }
+  
+  div.containerIconAndText {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  img.icon {
+    height: 20px;
+  }
+  div.containerLine {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  div.line {
+    width: 2px;
+    height: 4rem;
+    background-color: var(--color-secondary);
+  }
+  
+  @media screen and (max-width: 713px){
+    div.containerTitle {
+      padding-top: 5rem;
+    }
+    p.text {
+      font-size: 0.6rem;
+    }
+    p.textCheck {
+      font-size: 0.6rem;
+    }
+    button.buttonResetPassword {
+      font-size: 0.6rem;
+    }
+    div.footer {
+      flex-direction: column;
+      padding-bottom: 3rem;
+    }
+    div.line {
+      display: none;
+    }
+    div.containerPart {
+      align-items: center;
+    }
+  }
+
+  .content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.code-info {
+    background-color: #cce4e8;
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+
+.check-image {
+    margin-top: 50px; /* Ajuste conforme necessário */
+   
+}
+
+.big-bold-text {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.medium-text {
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.check-image img {
+    width: 70px; /* Defina a largura desejada */
+}
+
+.medium-text {
+    font-size: 18px;
+    margin-top: 90px;
+    text-align: justify;
+    max-width: 800px; /* Defina a largura máxima desejada */
+    margin-left: auto; /* Centralize o texto */
+    margin-right: auto; /* Centralize o texto */
+}
+
+.header-image {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 150px;
+  height: auto;
+  z-index: 1;
+}
+
+.header-content {
+  position: relative;
+}
