@@ -235,6 +235,36 @@ Se o usuário possuir duvidas na tela "cadastro do receptor", ele poderá clicar
 
 Responsável: Sidney Gabriel
 
+### Cadastro doador
+
+O acesso a tela de cadastro do doador pode ser realizado após o usuário passar pela tela de "Como contribuir". As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo da tela de cadastro doador:
+![Captura de tela cadastro doador 2024-05-12 195839](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/65582c34-4fe0-481f-bb5c-8b7ef97c8fbf)
+
+### Requisito atendido
+
+RF-01: O sistema permite manipular dados dos doadores (CRUD). (Nome completo, CPF, RG, CEP, endereço e data de nascimento)
+
+RF-08: O sistema deve ter dois cadastros, um para doador e outro para receptor.
+
+### Artefatos da funcionalidade
+
+●cadastro doador.HTML
+
+●cadastro doador.CSS
+
+### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL:
+
+Após entrar na tela "Como contribuir" clique no botão "Realizar cadastro" e o usuário será redirecionado para a tela de cadastro do doador.
+
+### Responsável
+
+Responsável: Marcus ian
+
+
 
 
 
