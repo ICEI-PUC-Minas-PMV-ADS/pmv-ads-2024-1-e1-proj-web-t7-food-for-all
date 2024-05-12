@@ -151,6 +151,32 @@ Ao clicar em “Ver em qual unidade esta disponivel” apos confirmar a solicita
 #### Responsável
 Responsável: Kamilly Macedo
 
+### Tela de realização da doação
+
+O acesso da tela de realização da doação poderá ser realizado após o preenchimento da aba "Login". As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo da tela de realização da doação:
+![imagem_2024-05-12_180040410](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163361061/12db06a8-8ddb-4729-9446-c59572addfe9)
+
+### Requisito atendido
+RF-04:O sistema deve alterar a quantidade de alimentos doados/solicitados.
+RF-05:O sistema deve registrar a data de validade dos alimentos.
+
+### Artefatos da Funcionalidade
+
+●Realização.html
+●styleRealize.css
+
+### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+Ao completar todos os campos da tela de "Login" e clicar em confirmar, o usuário será redirecionado para a tela de realização da doação.
+
+### Responsável
+Responsável: Sidney Gabriel
+
+
 
 
 
