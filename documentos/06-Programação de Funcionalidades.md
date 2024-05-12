@@ -5,8 +5,6 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
 ### Ser beneficiário do projeto 
-Responsável: Kamilly Macedo
-
 O acesso a tela poderá ser feito através da home page, ao clicar em “ser beneficiario”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de login:
@@ -37,7 +35,7 @@ Ao clicar em “Realizar cadastro” no meio da tela, terá acesso a página de 
 Responsável: Kamilly Macedo
 
 ### Realizar cadastro para receber doaçoes 
-Responsável: Kamilly Macedo
+
 
 O acesso a tela de cadastro poderá ser feito através da tela de ser beneficiario, clincando em “Realizar cadastro”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
@@ -63,8 +61,71 @@ RF-8: O sistema deve ter dois cadastro um para doador e outro para receptor
 Abra um navegador de Internet e informe a seguinte URL: 
 
 Apos clicar em “Realizar cadastro” no meio da tela, da acesso a essa página de cadastro para que o receptor solicite os alimentos.
+#### Responsável
+Responsável: Kamilly Macedo
+
+### Como contrinuir/ser um doador
+
+O acesso a tela poderá ser feito através da home page, ao clicar em “Fazer parte do projeto”. 
 
 
+Exemplo da tela de login:
+
+![como contribuir](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/assets/160599457/4bd70ee7-f26e-4f36-a0a2-b5e26328e66a)
+
+#### Requisito atendido
+
+RF-8: O sistema deve ter dois cadastro um para doador e outro para receptor
+
+#### Artefatos da funcionalidade
+
+●index.css
+●index.html
+
+#### Estrutura de Dados
+
+As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+Ao clicar em “Fazer parte do projeto” na home page, terá acesso a página de fazer cadastro para se tornar contribuinte.
+
+
+#### Responsável
+Responsável: Kamilly Macedo
+
+### Unidades fisícas
+
+O acesso a tela poderá ser feito através da pagina de confirmação da solicitação dos alimentos, ao clicar em “Ver em qual unidade esta disponivel”. 
+
+Exemplo da tela de login:
+
+![inidades fisicas](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/assets/160599457/e666635b-ff83-409f-afa2-ddcba731cbb2)
+
+#### Requisito atendido
+
+RF-8: O sistema deve ter dois cadastro um para doador e outro para receptor
+
+#### Artefatos da funcionalidade
+
+●index.css
+●index.html
+
+#### Estrutura de Dados
+
+As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+Ao clicar em “Ver em qual unidade esta disponivel” apos confirmar a solicitação dos alimentos, terá acesso a página de se informar em qual unidade buscar o alimento.
+
+
+#### Responsável
+Responsável: Kamilly Macedo
 
 
 > **Links Úteis**:
