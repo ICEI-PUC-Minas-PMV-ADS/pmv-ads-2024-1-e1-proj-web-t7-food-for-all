@@ -1,0 +1,307 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    --color-primary: #CCE4E8;
+    --color-secondary: #EFF4FF;
+    --color-tertiary: #323232;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eff4ff; /* Cor de fundo */
+    font-family: "Poppins", sans-serif;
+}
+
+
+.header {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: black; /* Cor do texto */
+    padding: 20px 0;
+    background-color: #cce4e8; /* Cor da tarja */
+    margin: 0;
+    position: relative;
+}
+
+.content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.content h2 {
+    font-size: 18px;
+}
+
+.content p {
+    font-size: 16px;
+}
+
+input[type="text"] {
+    width: 250px;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background-color:#eff4ff;
+}
+
+div.containerTitle {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-primary);
+    padding: 10rem 0;
+}
+
+h1 {
+    color: var(--color-tertiary);
+}
+
+div.containerSubtitle {
+    width: 70%;
+    background: var(--color-primary);
+    margin-top: 1.2rem;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p.text {
+    color: var(--color-tertiary);
+    font-size: 0.8rem;
+}
+
+div.containerInputs {
+    width: 70%;
+    margin-top: 1.4rem;
+    display: flex;
+    flex-direction: column;
+}
+
+p.inputTitle {
+    color: var(--color-tertiary);
+    font-size: 0.8rem;
+}
+
+input.inputPass {
+    /* width: 100%; */
+    padding: 0.5rem;
+    margin-top: 0.2rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--color-primary);
+    text-align: center;
+    background: transparent;
+    font-size: 0.7rem;
+}
+
+div.containerBottom {
+    width: 70%;
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+div.SavePassword {
+    display: flex;
+    flex-direction: row;
+}
+
+p.textCheck {
+    color: var(--color-tertiary);
+    font-size: 0.8rem;
+}
+
+button.buttonResetPassword {
+    padding: 0.2rem 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--color-tertiary);
+    background-color: var(--color-primary);
+    color: var(--color-tertiary);
+    font-size: 0.7rem;
+    cursor: pointer;
+}
+
+button.buttonLogin {
+    padding: 0.2rem 4rem;
+    border-radius: 0.8rem;
+    border: 1px solid var(--color-tertiary);
+    background-color: var(--color-primary);
+    color: var(--color-tertiary);
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-top: 2rem;
+}
+
+div.footer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: var(--color-primary);
+    margin-top: 3rem;
+    align-items: stretch;
+    justify-content: space-evenly;
+}
+
+div.containerPart {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    padding: 0.5rem;
+}
+
+p.partTitle {
+    color: var(--color-tertiary);
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+p.partText {
+    color: var(--color-tertiary);
+    font-size: 0.7rem;
+    text-align: left;
+    margin: 0.2rem;
+}
+
+div.containerIconAndText {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+img.icon {
+    height: 20px;
+}
+
+div.containerLine {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.line {
+    width: 2px;
+    height: 4rem;
+    background-color: var(--color-secondary);
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column; /* Adiciona flex-direction: column; para centralizar verticalmente */
+    padding: 0px;
+}
+
+.header-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px; /* Adiciona margem inferior para separar o título do subtítulo */
+}
+
+.header-subtitle {
+    font-size: 24px;
+    margin-bottom: 10px; /* Adiciona margem inferior para separar o subtítulo da descrição */
+}
+
+.header-description {
+    font-size: 18px;
+}
+
+.header-button {
+    padding: 10px 30px;
+    background-color: #EFF4FF;
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+    font-size: 16px;
+    position: absolute; /* Define a posição absoluta */
+    top: 35px; /* Distância do topo */
+    right: 20px; /* Distância da direita */
+    transform: translateY(-50%); /* Alinha verticalmente ao topo */
+    
+    
+}
+
+.content-title {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.content-description {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.content-cta-bold {
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 40px;
+}
+
+.content-button1 {
+    padding: 10px 20px;
+    background-color: #CCE4E8;
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 180px;
+    
+}
+
+.content-button2 {
+    padding: 10px 20px;
+    background-color: #CCE4E8;
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-right: 180px;
+    
+}
+
+.content-beneficiary-bold {
+    font-weight: bold;
+    font-size: 18px;
+    margin-right: 100px;
+}
+
+.content-cta {
+    text-align: left; /* Alinha o texto à esquerda */
+    margin-top: 50px;
+}
+
+.content-beneficiary {
+    text-align: right; /* Alinha o texto à direita */
+    margin-top: 10px; /* Adiciona margem superior para separar do conteúdo acima */
+}
+
+.cta-description-text1 {
+    text-align: left; /* Alinha o texto à esquerda */
+    margin-left: 150px;
+}
+
+.cta-description-text2 {
+    text-align: right; 
+    margin-right: 120px;
+}
+
+.header-image {
+    position: absolute; /* Define a posição absoluta */
+    top: 10px; /* Distância do topo */
+    left: 20px; /* Distância da esquerda */
+    height: auto; /* Altura da imagem */
+    width: 125px; /* Largura será ajustada automaticamente para manter a proporção */
+    z-index: 1; /* Garante que a imagem fique sobre o conteúdo do header */
+}
