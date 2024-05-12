@@ -262,7 +262,7 @@ Após entrar na tela "Como contribuir" clique no botão "Realizar cadastro" e o 
 
 ### Responsável
 
-Responsável: Marcus ian
+Responsável: Marcus Ian
 
 
 
