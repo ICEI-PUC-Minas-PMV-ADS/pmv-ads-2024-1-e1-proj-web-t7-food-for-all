@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styleFaça.css">;
+  <link rel="stylesheet" href="styleRealize.css">;
+  <script src="Java.js"></script>
   <title>Faça Doações</title>
   <img src="LogoGG.JPG" alt="Logo" class="header-img">
 </head>
@@ -15,29 +16,27 @@
     <div class="containerText">
       <p class="text">Cadastre sua doação</p>
     </div>
-    <div class="containerInputs">
+    <div class="containerInputs" >
       <p class="inputTitle">Tipo de alimento/produto </p>
-      <input class="inputPass" type="email" placeholder="Insira os produtos a serem doados">
+      <input class="inputPass" type="text" id="Produto" placeholder="Insira os produtos a serem doados">
+    </div>
+    <div class="containerInputs" >
+      <p class="inputTitle">Quantidade</p>
+      <input class="inputPass" type="text" id="Quantidade" placeholder="Insira a quantidade a ser doada">
+      </div>
+      <div class="containerInputs" >
+        <p class="inputTitle">Data de Validade</p>
+        <input class="inputPass" type="date" id="DatadeValidade" placeholder="Insira Data de validade">
     </div>
     <div class="containerInputs">
-      <p class="inputTitle">Quantidade</p>
-      <input class="inputPass" type="number" placeholder="Insira a quantidade a ser doada">
-      </div>
-      <div class="containerInputs">
-        <p class="inputTitle">Data de Validade</p>
-        <input class="inputPass" type="date" placeholder="Insira Data de validade">
-    
+      <p class="inputTitle">Local</p>
+      <input class="inputPass" type="text" id="Local" placeholder="Local X ou Y">
     </div>
-    <fieldset>
-     <legend> Local a ser Doado </legend>
-     <input type="radio" name="local" id="inx" > <label for="inx">X</label>
-     <input type="radio" name="local" id="iny" > <label for="iny">Y</label>
-    </fieldset>
-    <button class="buttonadicionar">
+    <button class="buttonadicionar" type="button" onclick="adicionarDoação()">
         Adicionar Produto
     </button>
     
-        <button class="buttonconfirmar">
+        <button type="button" onclick="cadastroProduto()" class="buttonconfirmar" >
             Confirmar
           </button>
     <div class="footer">
