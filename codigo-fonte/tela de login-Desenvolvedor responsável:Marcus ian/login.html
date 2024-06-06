@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="login.css">
+  <script src="tela de login javascript.js"></script>
   <title>Tela de login</title>
   <img src="LogoGG.JPG" alt="Logo" class="header-img">
 </head>
@@ -17,11 +18,11 @@
     </div>
     <div class="containerInputs">
       <p class="inputTitle">E-mail</p>
-      <input class="inputPass" type="email" placeholder="Insira o endereço de e-mail">
+      <input class="inputPass" type="email" id="Email" placeholder="Insira o endereço de e-mail">
     </div>
     <div class="containerInputs">
       <p class="inputTitle">Senha</p>
-      <input class="inputPass" type="password" placeholder="Insira sua senha(pelo menos 8 caracteres)">
+      <input class="inputPass" type="password" id="Senha" placeholder="Insira sua senha(pelo menos 8 caracteres)">
     </div>
     <div class="containerBottom">
       <div class="SavePassword">
@@ -32,7 +33,7 @@
         Esqueceu a senha?
       </button>
     </div>
-    <button class="buttonLogin">
+    <button class="buttonLogin" onclick="cadastroLogin()" type="button">
       Confirmar
     </button>
     <div class="footer">
