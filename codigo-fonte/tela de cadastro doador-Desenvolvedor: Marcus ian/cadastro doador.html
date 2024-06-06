@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="cadastro doador.css">
+    <script src="javascript cadastro doador.js"></script>
     <title>Cadastro doador</title>
     <img src="LogoGG.JPG" alt="Logo" class="header-img">
 </head>
@@ -14,19 +15,19 @@
      </div>
      <div class="containerinputs">
         <p class="inputtitle">E-mail</p>
-        <input class="inputpass" type="email" placeholder="insira o endereço de e-mail">
+        <input class="inputpass" type="email" id="Email" placeholder="insira o endereço de e-mail">
       </div>
       <div class="containerinputs">
          <p class="inputtitle">Senha</p>
-         <input class="inputpass" type="password" placeholder="insira sua senha (pelo menos 8 caracteres)">
+         <input class="inputpass" type="password" id="Senha" placeholder="insira sua senha (pelo menos 8 caracteres)">
       </div>
       <div class="containerinputs">
          <p class="inputtitle">CPF</p>
-         <input class="inputpass" type="text" placeholder="CNPJ/CPF">
+         <input class="inputpass" type="text" id="CPF" placeholder="CNPJ/CPF">
       </div>
       <div class="containerinputs">
          <p class="inputtitle">Nome Completo</p>
-         <input class="inputpass" type="text" placeholder="INSIRA SEU NOME COMPLETO.">
+         <input class="inputpass" type="text" id="Nome" placeholder="INSIRA SEU NOME COMPLETO.">
       </div>
       <div>
       <button class="buttonajuda">
@@ -35,7 +36,7 @@
         Já possui uma conta?
       </button>
       </div>
-      <button class="buttonconfirmar">
+      <button class="buttonconfirmar" onclick="cadastroDoador()" type="button">
         Confirmar
       </button>
       <div class="footer">
