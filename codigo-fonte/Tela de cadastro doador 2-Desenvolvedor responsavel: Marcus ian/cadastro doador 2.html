@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="cadastro doador 2.css">
+    <script src="javascript cadastro doador 2.js"></script>
     <title>Cadastro doador</title>
     <img src="LogoGG.JPG" alt="Logo" class="header-img">
 </head>
@@ -11,44 +12,45 @@
   <div class="root">
     <div class="containertitle">
       <h1>Cadastro</h1>
-     </div>
-     <div class="containertext">
-        <p class="text">Informações Pessoais</p>
-        </div>
-     <div class="containerinputs">
+    </div>
+    <div class="containertext">
+      <p class="text">Informações Pessoais</p>
+      </div>
+    <div class="containerinputs">
+      <div class="containerinputs1">
         <p class="inputtitle">Nome Completo</p>
-        <input class="inputpass" type="email" placeholder="Insira seu nome completo">
+        <input class="inputpass" type="text" id="Nome" placeholder="Insira seu nome completo">
       </div>
-      <div class="containerinputs">
-        <p class="inputtitle">CPF</p>
-        <input class="inputpass" type="text" placeholder="CNPJ/CPF">
-     </div>
-      <div class="containerinputs">
-         <p class="inputtitle">Data de nascimento</p>
-         <input class="inputpass" type="date" placeholder="insira sua senha (pelo menos 8 caracteres)">
+      <div class="containerinputs1">
+        <p class="inputtitle">Data de nascimento</p>
+        <input class="inputpass" type="date" id="DataNascimento" placeholder="insira sua senha (pelo menos 8 caracteres)">
       </div>
-      <div class="containerinputs">
-         <p class="inputtitle">Situação atual</p>
-         <input class="inputpass" type="text" placeholder="opçoes: desempregado, em situação de rua, passando dificuldade finaceira, outro
-         ">
-      </div>
-      <div class="containerinputs">
+      <div class="containerinputs1">
         <p class="inputtitle">Dependentes</p>
-        <input class="inputpass" type="text" placeholder="opcçoes: apenas eu, 2,3,4,5 ou mais">
-     </div>
-     <div class="containerinputs">
+        <input class="inputpass" type="text" id="Dependentes" placeholder="opcçoes: apenas eu, 2,3,4,5 ou mais">
+      </div>
+      <div class="containerinputs2">
+        <p class="inputtitle">CPF</p>
+        <input class="inputpass" type="text" id="CPF" placeholder="CNPJ/CPF">
+      </div>
+      <div class="containerinputs2">
+        <p class="inputtitle">Situação atual</p>
+        <input class="inputpass" type="text" id="Situação" placeholder="opçoes: desempregado, em situação de rua, passando dificuldade finaceira, outro">
+      </div>
+      <div class="containerinputs2">
         <p class="inputtitle">Endereço e CEP</p>
-        <input class="inputpass" type="text" placeholder="Insira seu endereço e CEP">
-     </div>
-      <div>
+        <input class="inputpass" type="text" id="Endereço" placeholder="Insira seu endereço e CEP">
+      </div>
+    </div>
+    <div>
       <button class="buttonconta">
         Precisa de Ajuda?
       </button>
-      </div>
-      <button class="buttonconfirmar">
-        Proximo
-      </button>
-      <div class="footer">
+    </div>
+    <button class="buttonconfirmar" onclick="cadastroReceptor()" type="button">
+      Proximo
+    </button>
+    <div class="footer">
       <div class="containerPart">
         <p class="partTitle"><b>INSTITUCIONAL</b></p>
         <p class="partText"><b>Quem somos?</b></p>
@@ -76,9 +78,10 @@
         <p class="partTitle"><b>REDES SOCIAIS</b></p>
         <div class="containerIconAndText">
           <img class="icon" src="Imagem do instagram de 2024-05-08 à(s) 20.50.42_3b89ea95.jpg"/>
-          <p class="partText"><a href="https://www.instagram.com/foodforall.mg?igsh=OXh4eWZ2eXU4eHpj&utm_source=qr" target="_blank" rel="external">@FOODFORALL</p></a>        </div>
+          <p class="partText"><a href="https://www.instagram.com/foodforall.mg?igsh=OXh4eWZ2eXU4eHpj&utm_source=qr" target="_blank" rel="external">@FOODFORALL</p></a>        
         </div>
-       </div>
       </div>
+    </div>
+  </div>
 </body>
 </html>
