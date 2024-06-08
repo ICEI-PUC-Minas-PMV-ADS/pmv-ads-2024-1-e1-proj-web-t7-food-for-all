@@ -2,7 +2,11 @@
 *{
     --color-primary: #CCE4E8;
     --color-secondary: #EFF4FF;
+     --color-tertiary: #323232;
+     margin:0;
+     padding: 0;
 }
+
 
 .header-img {
   position: absolute; /* Define a posição absoluta */
@@ -11,8 +15,7 @@
   height: auto; /* Altura da imagem */
   width: 90px; /* Largura será ajustada automaticamente para manter a proporção */
   z-index: 1; /* Garante que a imagem fique sobre o texto do cabeçalho */
-  cursor: pointer;
-  
+  cursor:pointer;
 }
 
  body{
@@ -22,59 +25,52 @@
     padding: 0;
     display:flex;
     justify-content: center;
+    flex-direction: row;
     align-items: center;
     display: block;
-    height: auto;
+    height: 200%;
+    color:var(--color-tertiary);
  }   
+div.camposInformativos{
+  display:grid;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  font-family: "Poppins" sans-serif;
+  color: var(--color-tertiary);
+}
+
+h1{
+    color: var(--color-tertiary);
+    font-family: "Poppins", sans-serif;
+  }
 
 div.root{
-    display: flex;
+  display: flex;
   background-color: var(--color-secondary);
-  flex-direction:column;
+  padding: 0;
+  width: 100%;
+  flex-direction: column;
   align-items: center;
   justify-self: flex-start;
-   height: 100vh;
-   padding-top: auto;
-padding-block: auto;
-   margin-top:-10px;
    
    
 }
-div.containerTitle{
+.informação-img{
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  justify-items:center;
+}
+div.containerTitle {
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: var(--color-primary);
-  padding: 0;
-  align-items: center
-  
+  padding: 2rem 0;
 }
-h1{
-  font-size: large;
-}
-h2{
-  font-size: xx-small;
-}
-h3{
-  font-size: xx-small;
-}
-h4{
-  font-size: xx-small;
-}
-h6{
-  font-size: xx-small;
-}
-div.meu-bloco{
-  font-size: xx-small;
-  margin-left: 535px;
-  font-family:"Poppins", sans-serif; 
-}
-div.meu-bloco2{
-  font-size: xx-small;
-  margin-left: 535px;
-  font-family:"Poppins", sans-serif; 
-}
+
 
 div.containerText {
     width: 70%;
@@ -88,6 +84,7 @@ div.containerText {
   p.text {
     font: size 100px;
     font-family:"Poppins", sans-serif;
+    display:flex
   }
   div.containerInputs {
     width: 70%;
@@ -98,7 +95,9 @@ div.containerText {
 p{
     font-family: "Poppins", sans-serif;
     font-size: large;
-}
+    display: flex;
+  }
+
 
 
 
@@ -110,6 +109,8 @@ div.footer {
     margin-top: 80px;
     align-items: stretch;
     justify-content: space-evenly;
+    height: -200px;
+    color:var(--color-tertiary);
   }
   div.containerPart {
     display: flex;
@@ -119,14 +120,14 @@ div.footer {
     padding: 0.5rem
   }
   p.partTitle {
-   
+    display: flex;
     font-family: "Poppins", sans-serif;
     font-size: 0.8rem;
     font-weight: bold;
     text-align: center;
   }
   p.partText {
-   
+    display: flex;
     font-family: "Poppins", sans-serif;
     font-size: 0.7rem;
     text-align: left;
@@ -151,4 +152,28 @@ div.footer {
     height: 4rem;
     background-color: var(--color-secondary);
   }
- 
+ /* Media Queries para Responsividade */
+ @media screen and (max-width: 713px){
+  div.containerTitle {
+    padding-top: 5rem;
+  }
+  p.text {
+    font-size: 0.6rem;
+  }
+  p.textCheck {
+    font-size: 0.6rem;
+  }
+  button.buttonResetPassword {
+    font-size: 0.6rem;
+  }
+  div.footer {
+    flex-direction: column;
+    padding-bottom: 3rem;
+  }
+  div.line {
+    display: none;
+  }
+  div.containerPart {
+    align-items: center;
+  }
+}
