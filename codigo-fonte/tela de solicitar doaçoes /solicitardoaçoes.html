@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="solicitardoacao.css">
+  <script src="solicitardoacao.js"></script>
+  <title>Solicitar doaçõess</title>
+  <img src="Assets/NOVA LOGO.jpeg" alt="Logo" class="logo">
+</head>
+<body>
+  <script type="text/javascript">
+        function redirecioneComHistorico() {
+          // Faz um redirecionamento mantendo a página original no histórico de navegaçãodo browser.
+          window.location.href = "solicitacaorealizada";
+        }
+    </script>
+  <header>
+    <div class="cabecalho">
+      <h1> Cadastre seus itens </h1>
+  </header>
+  
+    <div class="containerText">
+      <p class="text">Cadastre sua solicitação de doação</p>
+    </div>
+
+    <div class="containerInputs" >
+      <p class="title">Tipo de alimento/produto </p>
+      <select id="Produto">
+        <option>ESCOLHA UMA OPÇÃO</option>
+        <option> arroz  </option>
+        <option> feijão </option>
+        <option> macarrão</option>
+        <option> soja </option>
+        <option> café </option>
+        <option> farinha de trigo </option>
+        <option> cevada </option>
+        <option> farelo de trigo </option>
+        <option> leite em pó </option>
+        <option> óleo </option>
+        <option> papinhas para nenéns </option>
+      </select>
+    </div>
+
+    <div class="containerInputs" >
+      <p class="title">Quantidade</p>
+      <select id="Quantidade">
+        <option>ESCOLHA UMA OPÇÃO</option>
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5 ou mais</option>
+    </select>
+      </div>
+
+    <div class="containerInputs">
+      <p class="title">Local</p>
+      <select id="Local">
+        <option>ESCOLHA UMA OPÇÃO</option>
+        <option> Belo horizonte </option>
+        <option> Contagem </option>
+    </select>    
+    </div>
+
+    <button class="buttonadicionar" type="button" onclick="adicionarDoação()" onclick="redirecioneComHistorico()">
+        Adicionar Produto
+    </button>
+    
+        <button type="button" onclick="cadastroProduto()" class="buttonconfirmar" >
+            Confirmar
+          </button>
+
+  <div class="footer">
+        <div class="containerPart">
+          <p class="partTitle">INSTITUCIONAL</p>
+          <p class="partText">Quem somos?</p>
+          <p class="partText">Como contribuir?</p>
+          <p class="partText">Como ser beneficiário?</p>
+        </div>
+        <div class="containerLine">
+          <div class="line"></div>
+        </div>
+        <div class="containerPart">
+          <p class="partTitle">AJUDA E SUPORTE</p>
+          <div class="containerIconAndText">
+            <img class="icon" src="Assets/WPP-1.jpeg"/>
+            <p class="partText">(11) 4002-8922</p>
+          </div>
+          <div class="containerIconAndText">
+            <img class="Assets/EMAIL.jpeg"/>
+            <p class="partText">foodforal@gmail.com</p>
+          </div>
+        </div>
+        <div class="containerLine">
+          <div class="line"></div>
+        </div>
+        <div class="containerPart">
+          <p class="partTitle">REDES SOCIAIS</p>
+          <div class="containerIconAndText">
+            <img class="icon" src="Assets/INSTAGRAM-_1_.jpeg"/>
+            <a href="https://www.instagram.com/foodforall.mg?igsh=OXh4eWZ2eXU4eHpj&utm_source=qr" class="partText">@FOODFORALL</a>
+          </div>
+    </div>
+  </div>
+</body>
+</html>
