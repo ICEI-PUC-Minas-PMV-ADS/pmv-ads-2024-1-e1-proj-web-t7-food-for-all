@@ -39,6 +39,22 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Critérios de êxito |  Os dados devem estar armazenados no local storage. |
 | Responsável pela elaborar do caso de Teste | Marcus Ian|
 
+|Caso de Teste    | CT 005- Confirmação de Solicitação de doação |
+|:---|:---|
+| Requisitos Associados | RF-10 O sistema deve mostrar uma mensagem de confirmação de solicitação/doação. RF-06	O sistema deve enviar essas informações para o banco de dados local. |
+| Objetivo do Teste | Verificar se a doação é armazenada no local storage e se a mensagem de confirmação aparece na tela. |
+| Passos |  1-Preencher os campos da tela faça doações. 2-Clicar no botão "Confirmar". |
+| Critérios de êxito | Os dados devem estar armazenados no local storage e a mensagem deve aparecer na tela confirmando que solicitação de uma doação foi realizada.  |
+| Responsável pela elaborar do caso de Teste | Kamilly Macedo |
+
+|Caso de Teste    | CT 006 - Adicionar Produto na Solicitação de uma Doação|
+|:---|:---|
+| Requisitos Associados | 1.RF-05	O sistema deve registrar a data de validade dos alimentos. 2.RF-04 O sistema deve alterar a quantidade de alimentos doados/solicitados. 3.RF-06	O sistema deve enviar essas informações para o banco de dados local. |
+| Objetivo do Teste | Verificar se a doação é armazenada no local storage e se os campos são limpos. |
+| Passos | 1-Preencher os campos da tela faça doações. 2-Clicar no botão "Adicionar Produto". |
+| Critérios de êxito |  Os dados devem estar armazenados no local storage e os campos devem estar limpos, para a realização de mais uma doação.|
+| Responsável pela elaborar do caso de Teste | Kamilly Macedo|
+
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
