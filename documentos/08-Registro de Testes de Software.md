@@ -26,10 +26,10 @@ Responsável: Sidney Gabriel
 Responsável: Marcus Ian
 
 # CT-005
-
+![ad](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/4c79f734-ee28-4c8a-8d3e-9e39133770fe)
 Responsável: Kamilly Macedo
 
 # CT-006
-
+![co](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160599457/e4d8c834-cc2a-4d97-a6f5-3c4f20baf9eb)
 Responsável: Kamilly Macedo
 
