@@ -25,8 +25,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 
 |Caso de Teste    | CT 003- Confirmação da Doação |
 |:---|:---|
-| Requisitos Associados | RF-10 O sistema deve mostrar uma mensagem de confirmação de solicitação/doação
- RF-06	O sistema deve enviar essas informações para o banco de dados local. |
+| Requisitos Associados | RF-10 O sistema deve mostrar uma mensagem de confirmação de solicitação/doação. RF-06	O sistema deve enviar essas informações para o banco de dados local. |
 | Objetivo do Teste | Verificar se a doação é armazenada no local storage e se a mensagem de confirmação aparece na tela. |
 | Passos |  1-Preencher os campos da tela faça doações. 2-Clicar no botão "Confirmar". |
 | Critérios de êxito | Os dados devem estar armazenados no local storage e a mensagem deve aparecer na tela confirmando que a doação foi realizada.  |
