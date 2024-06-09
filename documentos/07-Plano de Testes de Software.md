@@ -31,6 +31,14 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Critérios de êxito | Os dados devem estar armazenados no local storage e a mensagem deve aparecer na tela confirmando que a doação foi realizada.  |
 | Responsável pela elaborar do caso de Teste | Sidney Gabriel |
 
+|Caso de Teste    | CT 004 - Login Realizado|
+|:---|:---|
+| Requisitos Associados | RF-01	O sistema permite manipular dados dos doadores (CRUD). (Nome completo, CPF, RG, CEP, endereço e data de nascimento) RF-06	O sistema deve enviar essas informações para o banco de dados local. |
+| Objetivo do Teste | Verificar se o login é armazenado no local storage. |
+| Passos | 1-Preencher os campos da tela de login. 2-Clicar no botão "confirmar". |
+| Critérios de êxito |  Os dados devem estar armazenados no local storage. |
+| Responsável pela elaborar do caso de Teste | Marcus Ian|
+
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
