@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+  --color-primary: #cce4e8;
+  --color-secundary: #eff4ff;
+  --color-tertiary: #323233;
+}
+
+body{
+  background-color:#EFF4FF;
+  font-family: "Poppins", sans-serif;
+  margin: 0; /* sem margem */
+  padding: 0; /* */
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
+
+header{
+  width:100%;/* Largura do qaudradro*/
+  padding:2rem; /* tamanho do quadrado azul */
+  background-color:var(--color-primary);
+  align-items:center;
+  justify-content: center;
+  display: flex;
+}
+
+.corpo{
+  font-size: 120%;
+  width: 2000px;
+  font-weight:300;
+  padding: 40px;
+  text-align:center;
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.logo{
+  position: absolute; /* Define a posição absoluta */
+  top: 10px; /* Distância do topo */
+  left: 20px; /* Distância da esquerda */
+  height: auto; /* Altura da imagem */
+  width: 150px; /* Largura será ajustada automaticamente para manter a proporção */
+  z-index: 1; /* Garante que a imagem fique sobre o texto do cabeçalho */
+  cursor:pointer;
+}
+
+div.footer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: var(--color-primary);
+  margin-top: 1.5rem; /* configura a altura do footer */
+  align-items: stretch;
+  justify-content: space-evenly;
+}
+
+select{
+    width: 150px;
+    margin-left: 16px;
+    height: 30px;
+    line-height: 38px;
+    font-family: "Poppins", sans-serif; 
+    color: var(--color-tertiary);
+    font-size: 12px;
+    background: transparent;
+}
+
+div.containerPart {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding: 0.4rem
+}
+
+.cabecalho{
+    color: var(--color-tertiary);
+    font-family: "Poppins", sans-serif;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.containerInputs{
+  display:flex;
+  flex-direction:row;
+  align-items:last baseline;
+  margin-top: 1.5rem;
+}
+
+.title{
+  display:flex;
+  flex-direction:row;
+  align-items:center;
+  margin-top: 0.5rem;
+}
+
+button{
+  margin-left:auto; 
+  margin-right: auto;
+  flex-direction:column-reverse;
+  display: flex;
+  padding: 0.6rem; /* Define tamanho do botao */
+  border-radius: 0.8rem;
+  border: 1px solid var(--color-tertiary);
+  background-color: var(--color-primary);
+  color: var(--color-tertiary);
+  font-family: "Poppins", sans-serif;
+  font-size: 0.7rem;
+  cursor: pointer;
+  margin-top: 1rem;  
+  align-items:center;
+  justify-content: center;
+}
+
+
+.partText {  /* config do texto do footer */
+  font-family: "Poppins", sans-serif;
+  font-size: 0.7rem;
+  text-align: left;
+  margin: 0.2rem;
+  color: #323233;
+  font-weight: bold;
+}
+
+div.containerIconAndText {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+img.icon {
+  height: 20px;
+}
+
+div.containerLine {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.line {
+  width: 2px;
+  height: 3rem;
+  background-color: var(--color-secundary);
+}
+
+@media screen and (max-width: 713px){
+  div.containerTitle {
+    padding-top: 5rem;
+  }
+  p.text {
+    font-size: 0.6rem;
+  }
+  p.textCheck {
+    font-size: 0.6rem;
+  }
+  div.footer {
+    flex-direction: column;
+    padding-bottom: 3rem;
+  }
+  div.line {
+    display: none;
+  }
+  div.containerPart {
+    align-items: center;
+  }
+}
