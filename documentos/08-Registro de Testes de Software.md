@@ -4,9 +4,12 @@ Relatório com as evidências dos testes de software realizados na aplicação p
 
 Os resultados dos testes funcionais realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste executado]
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
+|Caso de Teste    | CT 001 – Cadastro de nova senha incorreta. |
 |:---|:---|
-| Resultados obtidos | Descrever resultados do teste  |
-| Responsável pela execução do caso de Teste | Nome do integrante da equipe |
+| Resultados obtidos | Sucesso ao aparecer mensagem de erro em tentativa de recadastro de senhas desiguais ou menos de 8 caracteres.  |
+| Responsável pela execução do caso de Teste | Felipe Nicolau |
 
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
+# CT-001
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160440848/385fa74f-64be-4cc9-864d-092742b9d4ff)
+
+
