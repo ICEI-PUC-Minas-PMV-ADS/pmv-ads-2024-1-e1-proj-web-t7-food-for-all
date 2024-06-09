@@ -14,6 +14,24 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 
 
 
+|Caso de Teste    | CT 002 - Adicionar Produto|
+|:---|:---|
+| Requisitos Associados |  
+  RF-05	O sistema deve registrar a data de validade dos alimentos.
+  RF-04 O sistema deve alterar a quantidade de alimentos doados/solicitados.
+  RF-06	O sistema deve enviar essas informações para o banco de dados local.|
+| Objetivo do Teste | Verificar se a doação é armazenada no local storage e se os campos são limpos.|
+| Passos |1-Acessar o navegador 
+2-Informar o endereço do site  
+3-Visualizar a Home page 
+4-Ir para pagina de como contribuir 
+5-Realizar o Cadastro
+6-Fazer o login
+7-Na tela de realização de doação, preencha os campos nescessarios e logo após clique em "Adicionar Produto"|
+| Critérios de êxito |  Os dados devem estar armazenados no local storage e os campos devem estar limpos, para a realização de mais uma doação.|
+| Responsável pela elaborar do caso de Teste | Sidney Gabriel|
+
+
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
 | Requisitos Associados | RF-X |
