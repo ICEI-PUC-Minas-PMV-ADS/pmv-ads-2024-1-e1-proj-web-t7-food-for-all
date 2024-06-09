@@ -23,6 +23,15 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Responsável pela elaborar do caso de Teste | Sidney Gabriel|
 
 
+|Caso de Teste    | CT 003- Confirmação da Doação |
+|:---|:---|
+| Requisitos Associados | RF-X |
+| Objetivo do Teste | Descrição do objetivo do teste |
+| Passos | Indicar passos para a execução do teste |
+| Critérios de êxito | Indicar os critérios de êxito  |
+| Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
+
+
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
 | Requisitos Associados | RF-X |
