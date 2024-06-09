@@ -27,7 +27,7 @@ body {
 
 .content {
     text-align: center;
-    margin-top: 100px;
+    margin-top: 60px;
 }
 
 .content h2 {
@@ -49,19 +49,17 @@ input[type="text"] {
 }
 
 button {
-    padding: 10px 20px;
+    font-family: "Poppins", sans-serif;
+    padding: 0.2rem 4rem;
     font-size: 20px;
     background-color: #cce4e8;
     color: black;
-    border: none;
-    border-radius: 20px;
+    border: 1px solid var(--color-tertiary);
+    border-radius: 0.8rem;
     cursor: pointer;
-    font-weight: bold
-}
+    }
 
-button:hover {
-    background-color: #0056b3;
-}
+
 
 a {
     text-decoration: none;
