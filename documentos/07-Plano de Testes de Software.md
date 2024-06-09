@@ -55,6 +55,14 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Critérios de êxito |  Os dados devem estar armazenados no local storage e os campos devem estar limpos, para a realização de mais uma doação.|
 | Responsável pela elaborar do caso de Teste | Kamilly Macedo|
 
+|Caso de Teste    | CT 007 - Recuperar senha|
+|:---|:---|
+| Requisitos Associados | RF-11 O sistema deve permitir que o usuario altere sua senha, caso perca ou esqueça |
+| Objetivo do Teste | Verificar se as senhas estão iguais |
+| Passos | 1-Preencher os campos de recuperar senha. 2-Clicar no botão "confirmar". |
+| Critérios de êxito |  Se as senhas não estiverem iguais, aparecer uma mensagem dizendo que os mesmos não correspondem ou que são menos de 8 caracteres |
+| Responsável pela elaborar do caso de Teste | Lucas Araújo|
+
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
