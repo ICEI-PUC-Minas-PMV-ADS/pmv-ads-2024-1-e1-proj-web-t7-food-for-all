@@ -63,6 +63,15 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Critérios de êxito |  Se as senhas não estiverem iguais, aparecer uma mensagem dizendo que os mesmos não correspondem ou que são menos de 8 caracteres |
 | Responsável pela elaborar do caso de Teste | Lucas Araújo|
 
+|Caso de Teste    | CT 008 - Cadastro Realizado|
+|:---|:---|
+| Requisitos Associados | RF-01	O sistema permite manipular dados dos doadores (CRUD). (Nome completo, CPF, RG, CEP, endereço e data de nascimento) RF-06	O sistema deve enviar essas informações para o banco de dados local. |
+| Objetivo do Teste | Verificar se o cadastro é armazenado no local storage. |
+| Passos | 1-Preencher os campos da tela de cadastro. 2-Clicar no botão "proximo". |
+| Critérios de êxito |  Os dados devem estar armazenados no local storage. |
+| Responsável pela elaborar do caso de Teste | Marcus Ian|
+
+
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
