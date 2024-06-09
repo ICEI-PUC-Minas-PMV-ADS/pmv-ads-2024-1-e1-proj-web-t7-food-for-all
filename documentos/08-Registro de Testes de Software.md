@@ -37,4 +37,8 @@ Responsável: Kamilly Macedo
 ![Captura de tela de 2024-06-09 18-18-13](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/113399282/1d592f8e-f619-4948-b3d1-5675c3a60153)
 Responsável: Lucas Araújo
 
+# CT-008
+![Captura de tela 2024-06-09 203058](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163657938/825a4191-d0c8-4f94-9bf3-0ff2451f887c)
+Responsável: Marcus Ian
+
 
