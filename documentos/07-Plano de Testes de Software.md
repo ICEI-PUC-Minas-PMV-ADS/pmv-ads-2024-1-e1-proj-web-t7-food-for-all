@@ -1,8 +1,18 @@
 # Plano de Testes de Software
 
-[Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
 
-Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
+Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
+
+|Caso de Teste    | CT 001 – Cadastro de nova senha incorreta.|
+|:---|:---|
+| Requisitos Associados | RF-11 O sistema deve permitir que o usúario altere sua senha, caso perca ou esqueça|
+| Objetivo do Teste | Sistema deve identificar quando usuário cadastrar nova senha, se possuem menos de 8 caracteres e se estão iguais |
+| Passos | 1. É fornecido uma nova senha no campo “Insira a sua nova senha”. 2. É fornecido uma nova senha (diferente da primeira) no campo “Confirme sua senha”.|
+| Critérios de êxito | Aparecer mensagem de erro |
+| Responsável pela elaborar do caso de Teste | Felipe Nicolau |
+
+
+
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
