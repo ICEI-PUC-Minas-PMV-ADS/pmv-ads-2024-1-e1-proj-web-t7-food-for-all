@@ -12,4 +12,8 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 # CT-001
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/160440848/385fa74f-64be-4cc9-864d-092742b9d4ff)
 
+# CT-002
+!![CT002](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163361061/93f3112d-e065-48d8-bcbd-5cb6eec081a3)
 
+# CT-003
+![CT003](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all/assets/163361061/8ab7b213-d5cc-4886-95d6-570967a4027b)
