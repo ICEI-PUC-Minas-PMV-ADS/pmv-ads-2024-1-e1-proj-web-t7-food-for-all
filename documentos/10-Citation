@@ -1,0 +1,23 @@
+message: Please cite this software using these metadata.
+title: Food For All
+authors:
+  - family-names: Nicolau Ferreira
+    given-names: Felipe
+  - family-names: Rebeca de Macedo
+    given-names: Kamilly
+  - family-names: Araújo Miranda
+    given-names: Lucas
+  - family-names: Ian Oliveira Dias
+    given-names: Marcus
+  - family-names: Gabriel Abreu Magalhães
+    given-names: Sidney
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alberto Marques Pietrobon
+    given-names: Carlos
+keywords:
+  - Food for all
+
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t7-food-for-all
+version: 1.0.0
+date-released: 2024-06-23
